@@ -1,6 +1,5 @@
 libgit-calls
-index_write: index
-	
+index_write
 	^ self
 		call: #(LGitReturnCodeEnum git_index_write #(self))
 		options: #()
