@@ -1,0 +1,29 @@
+{
+	"instance" : { },
+	"class" : {
+		"git_checkout_dont_write_index" : " 12/5/2016 12:15:02",
+		"git_checkout_update_submodules" : " 12/5/2016 12:15:02",
+		"git_checkout_conflict_style_merge" : " 12/5/2016 12:15:02",
+		"git_checkout_skip_unmerged" : " 12/5/2016 12:15:02",
+		"git_checkout_disable_pathspec_match" : " 12/5/2016 12:15:02",
+		"git_checkout_safe" : " 12/5/2016 12:15:02",
+		"git_checkout_dont_remove_existing" : " 12/5/2016 12:15:02",
+		"git_checkout_update_submodules_if_changed" : " 12/5/2016 12:15:02",
+		"git_checkout_force" : " 12/5/2016 12:15:02",
+		"git_checkout_recreate_missing" : " 12/5/2016 12:15:02",
+		"git_checkout_skip_locked_directories" : " 12/5/2016 12:15:02",
+		"git_checkout_use_theirs" : " 12/5/2016 12:15:02",
+		"git_checkout_allow_conflicts" : " 12/5/2016 12:15:02",
+		"git_checkout_safe_create" : " 12/5/2016 12:15:02",
+		"git_checkout_none" : " 12/5/2016 12:15:02",
+		"git_checkout_remove_untracked" : " 12/5/2016 12:15:02",
+		"git_checkout_update_only" : " 12/5/2016 12:15:02",
+		"git_checkout_use_ours" : " 12/5/2016 12:15:02",
+		"git_checkout_remove_ignored" : " 12/5/2016 12:15:02",
+		"git_checkout_no_refresh" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_checkout_dont_overwrite_ignored" : " 12/5/2016 12:15:02",
+		"git_checkout_conflict_style_diff3" : " 12/5/2016 12:15:02",
+		"git_checkout_dont_update_index" : " 12/5/2016 12:15:02"
+	}
+}

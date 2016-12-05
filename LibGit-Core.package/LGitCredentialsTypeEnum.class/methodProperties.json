@@ -1,0 +1,10 @@
+{
+	"instance" : { },
+	"class" : {
+		"git_credtype_default" : " 12/5/2016 12:15:02",
+		"git_credtype_userpass_plaintext" : " 12/5/2016 12:15:02",
+		"git_credtype_ssh_custom" : " 12/5/2016 12:15:02",
+		"git_credtype_ssh_key" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"patch_from_buffers:old_buffer:old_len:old_as_path:new_buffer:new_len:new_as_path:opts:" : " 12/5/2016 12:15:02",
+		"patch_from_diff:diff:idx:" : " 12/5/2016 12:15:02",
+		"fromDiff:at:" : " 12/5/2016 12:15:02",
+		"patch_get_line_in_hunk:patch:hunk_idx:line_of_hunk:" : " 12/5/2016 12:15:02",
+		"patch_from_blobs:old_blob:old_as_path:new_blob:new_as_path:opts:" : " 12/5/2016 12:15:02",
+		"patch_get_delta:" : " 12/5/2016 12:15:02",
+		"patch_get_hunk:lines_in_hunk:patch:hunk_idx:" : " 12/5/2016 12:15:02",
+		"hunkAt:" : " 12/5/2016 12:15:02",
+		"printDiffOn:" : " 12/5/2016 12:15:02",
+		"patch_print:print_cb:payload:" : " 12/5/2016 12:15:02",
+		"printDiff" : " 12/5/2016 12:15:02",
+		"patch_from_blob_and_buffer:old_blob:old_as_path:buffer:buffer_len:buffer_as_path:opts:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"diff_patch_free:" : " 12/5/2016 12:15:02",
+		"fromDiff:at:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : { },
+	"class" : {
+		"git_pathspec_find_failures" : " 12/5/2016 12:15:02",
+		"git_pathspec_no_glob" : " 12/5/2016 12:15:02",
+		"git_pathspec_ignore_case" : " 12/5/2016 12:15:02",
+		"git_pathspec_default" : " 12/5/2016 12:15:02",
+		"git_pathspec_use_case" : " 12/5/2016 12:15:02",
+		"git_pathspec_failures_only" : " 12/5/2016 12:15:02",
+		"git_pathspec_no_match_error" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02"
+	}
+}

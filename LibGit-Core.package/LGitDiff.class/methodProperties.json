@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"diff_blobs:old_as_path:new_blob:new_as_path:options:file_cb:hunk_cb:line_cb:payload:" : " 12/5/2016 12:15:02",
+		"diffIndexToWorkDirOptions:" : " 12/5/2016 12:15:02",
+		"diff_tree_to_workdir:repo:old_tree:opts:" : " 12/5/2016 12:15:02",
+		"diff_get_perfdata:diff:" : " 12/5/2016 12:15:02",
+		"diff_blob_to_buffer:old_as_path:buffer:buffer_len:buffer_as_path:options:file_cb:hunk_cb:line_cb:payload:" : " 12/5/2016 12:15:02",
+		"diff_num_deltas_of_type:type:" : " 12/5/2016 12:15:02",
+		"diffTree:toTree:options:" : " 12/5/2016 12:15:02",
+		"diff_tree_to_index:repo:old_tree:index:opts:" : " 12/5/2016 12:15:02",
+		"diff_status_char:" : " 12/5/2016 12:15:02",
+		"diff_get_stats:diff:" : " 12/5/2016 12:15:02",
+		"diff_is_sorted_icase:" : " 12/5/2016 12:15:02",
+		"diff_index_to_workdir:repo:index:opts:" : " 12/5/2016 12:15:02",
+		"diff_buffers:old_len:old_as_path:new_buffer:new_len:new_as_path:options:file_cb:hunk_cb:line_cb:payload:" : " 12/5/2016 12:15:02",
+		"diffIndexToWorkDir" : " 12/5/2016 12:15:02",
+		"diff_num_deltas:" : " 12/5/2016 12:15:02",
+		"filesDo:binaryFilesDo:hunksDo:linesDo:" : " 12/5/2016 12:15:02",
+		"diff_tree_to_workdir_with_index:repo:old_tree:opts:" : " 12/5/2016 12:15:02",
+		"deltaAt:" : " 12/5/2016 12:15:02",
+		"patchAt:" : " 12/5/2016 12:15:02",
+		"diffTree:toTree:" : " 12/5/2016 12:15:02",
+		"diff_foreach:file_cb:binary_cb:hunk_cb:line_cb:payload:" : " 12/5/2016 12:15:02",
+		"diff_print:format:print_cb:payload:" : " 12/5/2016 12:15:02",
+		"diff_tree_to_tree:repo:old_tree:new_tree:opts:" : " 12/5/2016 12:15:02",
+		"numberOfDeltas" : " 12/5/2016 12:15:02",
+		"diff_get_delta:idx:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"diff_free:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}

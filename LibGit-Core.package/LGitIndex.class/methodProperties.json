@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"removeAll" : " 12/5/2016 12:15:02",
+		"index_read:force:" : " 12/5/2016 12:15:02",
+		"owner" : " 12/5/2016 12:15:02",
+		"index_entrycount:" : " 12/5/2016 12:15:02",
+		"index_update_all:pathspec:callback:payload:" : " 12/5/2016 12:15:02",
+		"entryCount" : " 12/5/2016 12:15:02",
+		"index_add_all:pathspec:flags:callback:payload:" : " 12/5/2016 12:15:02",
+		"hasEntry:" : " 12/5/2016 12:15:02",
+		"index_owner" : " 12/5/2016 12:15:02",
+		"addAll" : " 12/5/2016 12:15:02",
+		"path" : " 12/5/2016 12:15:02",
+		"isDirty:" : " 12/5/2016 12:15:02",
+		"status_file:repo:path:" : " 12/5/2016 12:15:02",
+		"status_foreach:callback:payload:" : " 12/5/2016 12:15:02",
+		"updateAll" : " 12/5/2016 12:15:02",
+		"writeToDisk" : " 12/5/2016 12:15:02",
+		"index_find:index:path:" : " 12/5/2016 12:15:02",
+		"writeTreeAndReturnOid" : " 12/5/2016 12:15:02",
+		"entriesSelect:" : " 12/5/2016 12:15:02",
+		"allFilesStatusDo:" : " 12/5/2016 12:15:02",
+		"isBeingTracked:" : " 12/5/2016 12:15:02",
+		"forceRefresh" : " 12/5/2016 12:15:02",
+		"index_has_conflicts" : " 12/5/2016 12:15:02",
+		"index_write" : " 12/5/2016 12:15:02",
+		"index_path" : " 12/5/2016 12:15:02",
+		"hasConflicts" : " 12/5/2016 12:15:02",
+		"index_remove_all:pathspec:callback:payload:" : " 12/5/2016 12:15:02",
+		"index_write_tree:index:" : " 12/5/2016 12:15:02",
+		"addAll:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"index_free:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}

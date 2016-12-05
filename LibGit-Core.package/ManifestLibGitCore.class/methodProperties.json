@@ -1,0 +1,11 @@
+{
+	"instance" : { },
+	"class" : {
+		"ruleRBNoClassCommentRuleV1FalsePositive" : " 12/5/2016 12:15:02",
+		"rejectRules" : " 12/5/2016 12:15:02",
+		"rejectClasses" : " 12/5/2016 12:15:02",
+		"ruleRBAbstractClassRuleV1FalsePositive" : " 12/5/2016 12:15:02",
+		"ruleIfTrueBlocksRuleV1FalsePositive" : " 12/5/2016 12:15:02",
+		"ruleIfTrueReturnsRuleV1FalsePositive" : " 12/5/2016 12:15:02"
+	}
+}

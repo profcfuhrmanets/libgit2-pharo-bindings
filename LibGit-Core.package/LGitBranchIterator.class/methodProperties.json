@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"iterate:" : " 12/5/2016 12:15:02",
+		"branch_next:out_type:" : " 12/5/2016 12:15:02",
+		"branch_iterator_new:repo:list_flags:" : " 12/5/2016 12:15:02",
+		"branchesDo:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"localBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"remoteBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02",
+		"of:branchType:do:" : " 12/5/2016 12:15:02",
+		"allBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"branch_iterator_free:" : " 12/5/2016 12:15:02"
+	}
+}
