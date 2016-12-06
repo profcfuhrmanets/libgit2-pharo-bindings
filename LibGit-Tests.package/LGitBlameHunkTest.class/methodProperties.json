@@ -1,14 +1,13 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testFinalCommitId" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testOriginalPath" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testSignatures" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testFinalStartLineNumber" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testOriginalStartLineNumber" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testNumberOfLines" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testBoundary" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testOriginalCommitId" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"setUp" : " 11/28/2016 11:42:15",
+		"testBoundary" : " 11/28/2016 11:42:15",
+		"testFinalCommitId" : " 11/28/2016 11:42:15",
+		"testFinalStartLineNumber" : " 11/28/2016 11:42:15",
+		"testNumberOfLines" : " 11/28/2016 11:42:15",
+		"testOriginalCommitId" : " 11/28/2016 11:42:15",
+		"testOriginalPath" : " 11/28/2016 11:42:15",
+		"testOriginalStartLineNumber" : " 11/28/2016 11:42:15",
+		"testSignatures" : " 11/28/2016 11:42:15" } }

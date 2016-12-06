@@ -1,12 +1,11 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testExternalCommitArray" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"createAuthor" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"createSubTreeWith:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"createRootTreeWith:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"createBlob" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testCreateCommit" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"createAuthor" : " 11/28/2016 11:42:15",
+		"createBlob" : " 11/28/2016 11:42:15",
+		"createRootTreeWith:" : " 11/28/2016 11:42:15",
+		"createSubTreeWith:" : " 11/28/2016 11:42:15",
+		"setUp" : " 11/28/2016 11:42:15",
+		"testCreateCommit" : "NicoPasserini 12/6/2016 10:14",
+		"testExternalCommitArray" : "NicoPasserini 12/6/2016 10:14" } }

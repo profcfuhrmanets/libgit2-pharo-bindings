@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"tearDown" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testPushHTTPS" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testPushSSH" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"tearDown" : " 11/28/2016 11:42:15",
+		"testPushHTTPS" : " 11/28/2016 11:42:15",
+		"testPushSSH" : " 11/28/2016 11:42:15" } }

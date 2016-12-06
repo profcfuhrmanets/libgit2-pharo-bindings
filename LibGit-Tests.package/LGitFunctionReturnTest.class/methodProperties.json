@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testDoesntSignalCallReturn" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testAllHandlersDefined" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testDoesntSignalGitOk" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testSignalsCallError" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testAllHandlersDefined" : " 11/28/2016 11:42:15",
+		"testDoesntSignalCallReturn" : " 11/28/2016 11:42:15",
+		"testDoesntSignalGitOk" : " 11/28/2016 11:42:15",
+		"testSignalsCallError" : " 11/28/2016 11:42:15" } }

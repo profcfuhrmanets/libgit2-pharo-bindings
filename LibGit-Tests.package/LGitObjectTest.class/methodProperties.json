@@ -1,11 +1,8 @@
 {
-	"instance" : {
-		"testPrinting" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testPrintingUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testEqualsUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testEquals" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
 	"class" : {
-		"isAbstract" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	}
-}
+		"isAbstract" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"testEquals" : " 11/28/2016 11:42:15",
+		"testEqualsUninitialized" : " 11/28/2016 11:42:15",
+		"testPrinting" : " 11/28/2016 11:42:15",
+		"testPrintingUninitialized" : " 11/28/2016 11:42:15" } }

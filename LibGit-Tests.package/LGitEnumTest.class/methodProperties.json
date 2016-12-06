@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testIsPartOfBitFlagWithZeroFlag" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testAccessingValues" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testPrintOn" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testIsPartOfBitFlag" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testAccessingValues" : " 11/28/2016 11:42:15",
+		"testIsPartOfBitFlag" : " 11/28/2016 11:42:15",
+		"testIsPartOfBitFlagWithZeroFlag" : " 11/28/2016 11:42:15",
+		"testPrintOn" : " 11/28/2016 11:42:15" } }

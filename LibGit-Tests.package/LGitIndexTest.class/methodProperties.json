@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testRemoveAll" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testIsBeingTracked" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testAddAll" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testAddAll" : " 11/28/2016 11:42:15",
+		"testIsBeingTracked" : " 11/28/2016 11:42:15",
+		"testRemoveAll" : " 11/28/2016 11:42:15" } }

@@ -1,3 +1,3 @@
 accessing
 updateReference
-	^ updateReference
+	^ updateReference ifNil: [ updateReference := self repository master ]

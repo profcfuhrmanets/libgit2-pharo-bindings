@@ -1,12 +1,11 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testPatchFromDiff" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testDiffTreeToTree" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testGetDelta" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testNumDeltasNonZero" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testNumDeltasZero" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testDiffContentForCommit" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"setUp" : " 11/28/2016 11:42:15",
+		"testDiffContentForCommit" : " 11/28/2016 11:42:15",
+		"testDiffTreeToTree" : " 11/28/2016 11:42:15",
+		"testGetDelta" : " 11/28/2016 11:42:15",
+		"testNumDeltasNonZero" : " 11/28/2016 11:42:15",
+		"testNumDeltasZero" : " 11/28/2016 11:42:15",
+		"testPatchFromDiff" : " 11/28/2016 11:42:15" } }

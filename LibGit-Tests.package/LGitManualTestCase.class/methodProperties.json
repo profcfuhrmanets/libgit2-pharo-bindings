@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"disable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"enable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"runCase" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"isEnabled" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
 	"class" : {
-		"disable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"enable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"isEnabled" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	}
-}
+		"disable" : " 11/28/2016 11:42:15",
+		"enable" : " 11/28/2016 11:42:15",
+		"isEnabled" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"disable" : " 11/28/2016 11:42:15",
+		"enable" : " 11/28/2016 11:42:15",
+		"isEnabled" : " 11/28/2016 11:42:15",
+		"runCase" : " 11/28/2016 11:42:15" } }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitTestCase",
 	"category" : "LibGit-Tests",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"array"
-	],
+		"array" ],
 	"name" : "LGitExternalStringArrayTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitTestCase",
+	"type" : "normal" }

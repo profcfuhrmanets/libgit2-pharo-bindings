@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"libSSH2LibraryName" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"libSSH2Version:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testLibSSH2Loadable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testLibGit2Loadable" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"libSSH2LibraryName" : " 11/28/2016 11:42:15",
+		"libSSH2Version:" : " 11/28/2016 11:42:15",
+		"testLibGit2Loadable" : " 11/28/2016 11:42:15",
+		"testLibSSH2Loadable" : " 11/28/2016 11:42:15" } }

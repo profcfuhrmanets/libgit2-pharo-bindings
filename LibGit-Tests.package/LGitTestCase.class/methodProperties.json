@@ -1,13 +1,12 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"repository" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"newRepo" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"touchFileAndCommit" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"tearDown" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"assertGarbageCollectAll:after:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"touchFile" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"file" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"assertGarbageCollectAll:after:" : " 11/28/2016 11:42:15",
+		"file" : " 11/28/2016 11:42:15",
+		"newRepo" : " 11/28/2016 11:42:15",
+		"repository" : " 11/28/2016 11:42:15",
+		"setUp" : " 11/28/2016 11:42:15",
+		"tearDown" : " 11/28/2016 11:42:15",
+		"touchFile" : " 11/28/2016 11:42:15",
+		"touchFileAndCommit" : "NicoPasserini 12/6/2016 10:14" } }

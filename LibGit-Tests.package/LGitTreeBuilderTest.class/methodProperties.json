@@ -1,10 +1,9 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testAddBlobEntry" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testAddTreeEntry" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testWrite" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testWriteBlob" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"setUp" : " 11/28/2016 11:42:15",
+		"testAddBlobEntry" : " 11/28/2016 11:42:15",
+		"testAddTreeEntry" : " 11/28/2016 11:42:15",
+		"testWrite" : " 11/28/2016 11:42:15",
+		"testWriteBlob" : " 11/28/2016 11:42:15" } }

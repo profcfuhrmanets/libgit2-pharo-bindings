@@ -17,7 +17,7 @@ touchFileAndCommit
 		tree: rootTree;
 		message: 'eat my shorts';
 		parents: { self repository head object };
-		updateReference: repository master;
+		updateReference: repository master name;
 		author: author;
 		committer: author;
 		writeCommit.

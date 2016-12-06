@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testSimpleFetchHTTPS" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testCloneFetchHTTPS" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testCloneFetchHTTPS" : " 11/28/2016 11:42:15",
+		"testSimpleFetchHTTPS" : " 11/28/2016 11:42:15" } }

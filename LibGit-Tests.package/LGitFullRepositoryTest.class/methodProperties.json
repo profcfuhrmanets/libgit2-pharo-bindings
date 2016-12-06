@@ -1,12 +1,11 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testCheckout" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testLookupHead" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testBranchesNotEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testBranchNamesNotEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testLookupMasterBranch" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testCreateTag" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testRevparse" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testBranchNamesNotEmpty" : " 11/28/2016 11:42:15",
+		"testBranchesNotEmpty" : " 11/28/2016 11:42:15",
+		"testCheckout" : " 11/28/2016 11:42:15",
+		"testCreateTag" : " 11/28/2016 11:42:15",
+		"testLookupHead" : " 11/28/2016 11:42:15",
+		"testLookupMasterBranch" : " 11/28/2016 11:42:15",
+		"testRevparse" : " 11/28/2016 11:42:15" } }

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitTestCase",
 	"category" : "LibGit-Tests",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitFullRepositoryTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitTestCase",
+	"type" : "normal" }

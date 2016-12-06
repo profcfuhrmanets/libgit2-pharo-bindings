@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testCloneLocal" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testCloneHTTPS" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
-		"testCloneSSH" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
-	},
-	"class" : { }
-}
+		"testCloneHTTPS" : " 11/28/2016 11:42:15",
+		"testCloneLocal" : " 11/28/2016 11:42:15",
+		"testCloneSSH" : " 11/28/2016 11:42:15" } }
