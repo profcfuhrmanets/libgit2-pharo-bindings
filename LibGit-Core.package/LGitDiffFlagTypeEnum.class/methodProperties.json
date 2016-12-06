@@ -1,9 +1,8 @@
 {
-	"instance" : { },
 	"class" : {
-		"git_diff_flag_valid_id" : " 12/5/2016 12:15:02",
-		"git_diff_flag_not_binary" : " 12/5/2016 12:15:02",
-		"enumDecl" : " 12/5/2016 12:15:02",
-		"git_diff_flag_binary" : " 12/5/2016 12:15:02"
-	}
-}
+		"enumDecl" : " 11/28/2016 11:42:15",
+		"git_diff_flag_binary" : " 11/28/2016 11:42:15",
+		"git_diff_flag_not_binary" : " 11/28/2016 11:42:15",
+		"git_diff_flag_valid_id" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		 } }

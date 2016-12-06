@@ -1,27 +1,24 @@
 {
-	"instance" : {
-		"symbol" : " 12/5/2016 12:15:02",
-		"value" : " 12/5/2016 12:15:02",
-		"printOn:" : " 12/5/2016 12:15:02",
-		"=" : " 12/5/2016 12:15:02",
-		"value:" : " 12/5/2016 12:15:02",
-		"hash" : " 12/5/2016 12:15:02",
-		"isPartOfBitFlag:" : " 12/5/2016 12:15:02"
-	},
 	"class" : {
-		"buildDeclaration" : " 12/5/2016 12:15:02",
-		"compileAccessorsFrom:" : " 12/5/2016 12:15:02",
-		"defaultRepresentationType" : " 12/5/2016 12:15:02",
-		"enumDecl" : " 12/5/2016 12:15:02",
-		"fromInteger:" : " 12/5/2016 12:15:02",
-		"includes:" : " 12/5/2016 12:15:02",
-		"initialize" : " 12/5/2016 12:15:02",
-		"declaration" : " 12/5/2016 12:15:02",
-		"removeOldAccessors" : " 12/5/2016 12:15:02",
-		"literalDeclaration" : " 12/5/2016 12:15:02",
-		"makeSelectorsLegalIn:" : " 12/5/2016 12:15:02",
-		"new" : " 12/5/2016 12:15:02",
-		"asExternalTypeOn:" : " 12/5/2016 12:15:02",
-		"representationType" : " 12/5/2016 12:15:02"
-	}
-}
+		"asExternalTypeOn:" : " 11/28/2016 11:42:15",
+		"buildDeclaration" : " 11/28/2016 11:42:15",
+		"compileAccessorsFrom:" : " 11/28/2016 11:42:15",
+		"declaration" : " 11/28/2016 11:42:15",
+		"defaultRepresentationType" : " 11/28/2016 11:42:15",
+		"enumDecl" : " 11/28/2016 11:42:15",
+		"fromInteger:" : " 11/28/2016 11:42:15",
+		"includes:" : " 11/28/2016 11:42:15",
+		"initialize" : " 11/28/2016 11:42:15",
+		"literalDeclaration" : " 11/28/2016 11:42:15",
+		"makeSelectorsLegalIn:" : " 11/28/2016 11:42:15",
+		"new" : " 11/28/2016 11:42:15",
+		"removeOldAccessors" : " 11/28/2016 11:42:15",
+		"representationType" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"=" : " 11/28/2016 11:42:15",
+		"hash" : " 11/28/2016 11:42:15",
+		"isPartOfBitFlag:" : " 11/28/2016 11:42:15",
+		"printOn:" : " 11/28/2016 11:42:15",
+		"symbol" : " 11/28/2016 11:42:15",
+		"value" : " 11/28/2016 11:42:15",
+		"value:" : " 11/28/2016 11:42:15" } }

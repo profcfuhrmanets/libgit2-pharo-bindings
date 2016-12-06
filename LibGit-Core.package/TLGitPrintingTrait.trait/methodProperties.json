@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"shouldContinuePrintingOn:" : " 12/5/2016 12:15:02",
-		"objectPrintOn:" : " 12/5/2016 12:15:02",
-		"printOn:" : " 12/5/2016 12:15:02"
-	},
-	"class" : { }
-}
+		"objectPrintOn:" : " 11/28/2016 11:42:15",
+		"printOn:" : " 11/28/2016 11:42:15",
+		"shouldContinuePrintingOn:" : " 11/28/2016 11:42:15" } }

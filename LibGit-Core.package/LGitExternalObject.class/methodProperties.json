@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"isReady" : " 12/5/2016 12:15:02",
-		"free" : " 12/5/2016 12:15:02",
-		"shouldContinuePrintingOn:" : " 12/5/2016 12:15:02"
-	},
 	"class" : {
-		"finalizeResourceData:" : " 12/5/2016 12:15:02",
-		"fromHandle:" : " 12/5/2016 12:15:02",
-		"object_free:" : " 12/5/2016 12:15:02",
-		"freeFunctionSelector" : " 12/5/2016 12:15:02"
-	}
-}
+		"finalizeResourceData:" : " 11/28/2016 11:42:15",
+		"freeFunctionSelector" : " 11/28/2016 11:42:15",
+		"fromHandle:" : " 11/28/2016 11:42:15",
+		"object_free:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"free" : " 11/28/2016 11:42:15",
+		"isReady" : " 11/28/2016 11:42:15",
+		"shouldContinuePrintingOn:" : " 11/28/2016 11:42:15" } }

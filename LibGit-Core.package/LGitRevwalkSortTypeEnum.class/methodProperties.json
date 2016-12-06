@@ -1,10 +1,9 @@
 {
-	"instance" : { },
 	"class" : {
-		"git_sort_time" : " 12/5/2016 12:15:02",
-		"git_sort_none" : " 12/5/2016 12:15:02",
-		"git_sort_reverse" : " 12/5/2016 12:15:02",
-		"git_sort_topological" : " 12/5/2016 12:15:02",
-		"enumDecl" : " 12/5/2016 12:15:02"
-	}
-}
+		"enumDecl" : " 11/28/2016 11:42:15",
+		"git_sort_none" : " 11/28/2016 11:42:15",
+		"git_sort_reverse" : " 11/28/2016 11:42:15",
+		"git_sort_time" : " 11/28/2016 11:42:15",
+		"git_sort_topological" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		 } }

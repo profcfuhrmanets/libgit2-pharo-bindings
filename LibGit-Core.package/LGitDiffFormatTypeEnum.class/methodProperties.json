@@ -1,11 +1,10 @@
 {
-	"instance" : { },
 	"class" : {
-		"git_diff_format_name_status" : " 12/5/2016 12:15:02",
-		"git_diff_format_patch_header" : " 12/5/2016 12:15:02",
-		"git_diff_format_name_only" : " 12/5/2016 12:15:02",
-		"git_diff_format_raw" : " 12/5/2016 12:15:02",
-		"enumDecl" : " 12/5/2016 12:15:02",
-		"git_diff_format_patch" : " 12/5/2016 12:15:02"
-	}
-}
+		"enumDecl" : " 11/28/2016 11:42:15",
+		"git_diff_format_name_only" : " 11/28/2016 11:42:15",
+		"git_diff_format_name_status" : " 11/28/2016 11:42:15",
+		"git_diff_format_patch" : " 11/28/2016 11:42:15",
+		"git_diff_format_patch_header" : " 11/28/2016 11:42:15",
+		"git_diff_format_raw" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		 } }

@@ -1,21 +1,18 @@
 {
-	"instance" : {
-		"patch_from_buffers:old_buffer:old_len:old_as_path:new_buffer:new_len:new_as_path:opts:" : " 12/5/2016 12:15:02",
-		"patch_from_diff:diff:idx:" : " 12/5/2016 12:15:02",
-		"fromDiff:at:" : " 12/5/2016 12:15:02",
-		"patch_get_line_in_hunk:patch:hunk_idx:line_of_hunk:" : " 12/5/2016 12:15:02",
-		"patch_from_blobs:old_blob:old_as_path:new_blob:new_as_path:opts:" : " 12/5/2016 12:15:02",
-		"patch_get_delta:" : " 12/5/2016 12:15:02",
-		"patch_get_hunk:lines_in_hunk:patch:hunk_idx:" : " 12/5/2016 12:15:02",
-		"hunkAt:" : " 12/5/2016 12:15:02",
-		"printDiffOn:" : " 12/5/2016 12:15:02",
-		"patch_print:print_cb:payload:" : " 12/5/2016 12:15:02",
-		"printDiff" : " 12/5/2016 12:15:02",
-		"patch_from_blob_and_buffer:old_blob:old_as_path:buffer:buffer_len:buffer_as_path:opts:" : " 12/5/2016 12:15:02"
-	},
 	"class" : {
-		"diff_patch_free:" : " 12/5/2016 12:15:02",
-		"fromDiff:at:" : " 12/5/2016 12:15:02",
-		"freeFunctionSelector" : " 12/5/2016 12:15:02"
-	}
-}
+		"diff_patch_free:" : " 11/28/2016 11:42:15",
+		"freeFunctionSelector" : " 11/28/2016 11:42:15",
+		"fromDiff:at:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"fromDiff:at:" : " 11/28/2016 11:42:15",
+		"hunkAt:" : " 11/28/2016 11:42:15",
+		"patch_from_blob_and_buffer:old_blob:old_as_path:buffer:buffer_len:buffer_as_path:opts:" : " 11/28/2016 11:42:15",
+		"patch_from_blobs:old_blob:old_as_path:new_blob:new_as_path:opts:" : " 11/28/2016 11:42:15",
+		"patch_from_buffers:old_buffer:old_len:old_as_path:new_buffer:new_len:new_as_path:opts:" : " 11/28/2016 11:42:15",
+		"patch_from_diff:diff:idx:" : " 11/28/2016 11:42:15",
+		"patch_get_delta:" : " 11/28/2016 11:42:15",
+		"patch_get_hunk:lines_in_hunk:patch:hunk_idx:" : " 11/28/2016 11:42:15",
+		"patch_get_line_in_hunk:patch:hunk_idx:line_of_hunk:" : " 11/28/2016 11:42:15",
+		"patch_print:print_cb:payload:" : " 11/28/2016 11:42:15",
+		"printDiff" : " 11/28/2016 11:42:15",
+		"printDiffOn:" : " 11/28/2016 11:42:15" } }

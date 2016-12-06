@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "MaxLeske 8/13/2015 23:46",
-	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 8/13/2015 23:46",
 	"instvars" : [
-		"callbacks"
-	],
+		"callbacks" ],
 	"name" : "LGitPushOptions",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }

@@ -1,9 +1,6 @@
 {
-	"instance" : {
-		"initialize" : " 12/5/2016 12:15:02",
-		"initializeWithDefaults" : " 12/5/2016 12:15:02"
-	},
 	"class" : {
-		"defaults" : " 12/5/2016 12:15:02"
-	}
-}
+		"defaults" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"initialize" : " 11/28/2016 11:42:15",
+		"initializeWithDefaults" : " 11/28/2016 11:42:15" } }

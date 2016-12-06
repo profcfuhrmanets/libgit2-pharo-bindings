@@ -1,12 +1,9 @@
 {
-	"instance" : {
-		"value" : " 12/5/2016 12:15:02",
-		"value:" : " 12/5/2016 12:15:02",
-		"handleLGitReturnCode" : " 12/5/2016 12:15:02",
-		"methodSelector" : " 12/5/2016 12:15:02",
-		"methodSelector:" : " 12/5/2016 12:15:02"
-	},
 	"class" : {
-		"methodSelector:value:" : " 12/5/2016 12:15:02"
-	}
-}
+		"methodSelector:value:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"handleLGitReturnCode" : " 11/28/2016 11:42:15",
+		"methodSelector" : " 11/28/2016 11:42:15",
+		"methodSelector:" : " 11/28/2016 11:42:15",
+		"value" : " 11/28/2016 11:42:15",
+		"value:" : " 11/28/2016 11:42:15" } }
