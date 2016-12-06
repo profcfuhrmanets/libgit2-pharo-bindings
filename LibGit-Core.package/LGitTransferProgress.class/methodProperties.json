@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fieldsDesc" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"prim_indexed_deltas" : " 11/28/2016 11:42:15",
+		"prim_indexed_deltas:" : " 11/28/2016 11:42:15",
+		"prim_indexed_objects" : " 11/28/2016 11:42:15",
+		"prim_indexed_objects:" : " 11/28/2016 11:42:15",
+		"prim_local_objects" : " 11/28/2016 11:42:15",
+		"prim_local_objects:" : " 11/28/2016 11:42:15",
+		"prim_received_bytes" : " 11/28/2016 11:42:15",
+		"prim_received_bytes:" : " 11/28/2016 11:42:15",
+		"prim_received_objects" : " 11/28/2016 11:42:15",
+		"prim_received_objects:" : " 11/28/2016 11:42:15",
+		"prim_total_deltas" : " 11/28/2016 11:42:15",
+		"prim_total_deltas:" : " 11/28/2016 11:42:15",
+		"prim_total_objects" : " 11/28/2016 11:42:15",
+		"prim_total_objects:" : " 11/28/2016 11:42:15" } }

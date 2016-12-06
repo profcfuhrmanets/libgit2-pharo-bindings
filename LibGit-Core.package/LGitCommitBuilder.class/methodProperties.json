@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"author" : " 11/28/2016 11:42:15",
+		"author:" : " 11/28/2016 11:42:15",
+		"commitId" : " 11/28/2016 11:42:15",
+		"commitId:" : " 11/28/2016 11:42:15",
+		"commit_create:repo:update_ref:author:committer:message_encoding:message:tree:parent_count:parents:" : " 11/28/2016 11:42:15",
+		"committer" : " 11/28/2016 11:42:15",
+		"committer:" : " 11/28/2016 11:42:15",
+		"message" : " 11/28/2016 11:42:15",
+		"message:" : " 11/28/2016 11:42:15",
+		"messageEncoding" : " 11/28/2016 11:42:15",
+		"messageEncoding:" : " 11/28/2016 11:42:15",
+		"parents" : " 11/28/2016 11:42:15",
+		"parents:" : " 11/28/2016 11:42:15",
+		"tree" : " 11/28/2016 11:42:15",
+		"tree:" : " 11/28/2016 11:42:15",
+		"updateReference" : "NicoPasserini 12/5/2016 17:58",
+		"updateReference:" : " 11/28/2016 11:42:15",
+		"writeCommit" : "NicoPasserini 12/5/2016 17:51",
+		"writtenCommit" : " 11/28/2016 11:42:15" } }

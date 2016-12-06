@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"call:" : " 11/28/2016 11:42:15",
+		"call:options:" : " 11/28/2016 11:42:15",
+		"ffiLibrary" : " 11/28/2016 11:42:15",
+		"ffiLibraryName" : " 11/28/2016 11:42:15",
+		"validate:shouldBe:" : " 11/28/2016 11:42:15",
+		"withReturnHandlerDo:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"call:" : " 11/28/2016 11:42:15",
+		"call:options:" : " 11/28/2016 11:42:15",
+		"callUnchecked:options:" : " 11/28/2016 11:42:15",
+		"ffiLibrary" : " 11/28/2016 11:42:15",
+		"ffiLibraryName" : " 11/28/2016 11:42:15",
+		"ffiNull" : " 11/28/2016 11:42:15",
+		"ifNotReady:" : " 11/28/2016 11:42:15",
+		"isReady" : " 11/28/2016 11:42:15",
+		"safeFFICalloutIn:" : " 11/28/2016 11:42:15",
+		"signalIfNotReady" : " 11/28/2016 11:42:15",
+		"signalNotReady" : " 11/28/2016 11:42:15",
+		"validate:shouldBe:" : " 11/28/2016 11:42:15",
+		"withReturnHandlerDo:" : " 11/28/2016 11:42:15" } }

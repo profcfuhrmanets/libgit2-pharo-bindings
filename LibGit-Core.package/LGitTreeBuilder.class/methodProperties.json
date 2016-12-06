@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"freeFunctionSelector" : " 11/28/2016 11:42:15",
+		"fromTree:" : " 11/28/2016 11:42:15",
+		"of:fromTree:" : " 11/28/2016 11:42:15",
+		"treebuilder_free:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"addEntry:filename:" : " 11/28/2016 11:42:15",
+		"addEntryWithId:filename:filemode:" : " 11/28/2016 11:42:15",
+		"clear" : " 11/28/2016 11:42:15",
+		"createNew" : " 11/28/2016 11:42:15",
+		"getEntryNamed:" : " 11/28/2016 11:42:15",
+		"initializeWithTree:" : " 11/28/2016 11:42:15",
+		"newTree" : " 11/28/2016 11:42:15",
+		"treebuilder_clear:" : " 11/28/2016 11:42:15",
+		"treebuilder_get:filename:" : " 11/28/2016 11:42:15",
+		"treebuilder_insert:bld:filename:id:filemode:" : " 11/28/2016 11:42:15",
+		"treebuilder_new:repo:source:" : " 11/28/2016 11:42:15",
+		"treebuilder_write:bld:" : " 11/28/2016 11:42:15",
+		"write" : " 11/28/2016 11:42:15" } }

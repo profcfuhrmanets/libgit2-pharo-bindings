@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"asExternalTypeOn:" : " 11/28/2016 11:42:15",
+		"buildDeclaration" : " 11/28/2016 11:42:15",
+		"compileAccessorsFrom:" : " 11/28/2016 11:42:15",
+		"declaration" : " 11/28/2016 11:42:15",
+		"defaultRepresentationType" : " 11/28/2016 11:42:15",
+		"enumDecl" : " 11/28/2016 11:42:15",
+		"fromInteger:" : " 11/28/2016 11:42:15",
+		"includes:" : " 11/28/2016 11:42:15",
+		"initialize" : " 11/28/2016 11:42:15",
+		"literalDeclaration" : " 11/28/2016 11:42:15",
+		"makeSelectorsLegalIn:" : " 11/28/2016 11:42:15",
+		"new" : " 11/28/2016 11:42:15",
+		"removeOldAccessors" : " 11/28/2016 11:42:15",
+		"representationType" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"=" : " 11/28/2016 11:42:15",
+		"hash" : " 11/28/2016 11:42:15",
+		"isPartOfBitFlag:" : " 11/28/2016 11:42:15",
+		"printOn:" : " 11/28/2016 11:42:15",
+		"symbol" : " 11/28/2016 11:42:15",
+		"value" : " 11/28/2016 11:42:15",
+		"value:" : " 11/28/2016 11:42:15" } }

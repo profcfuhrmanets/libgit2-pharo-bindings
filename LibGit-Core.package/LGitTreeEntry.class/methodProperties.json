@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"freeFunctionSelector" : " 11/28/2016 11:42:15",
+		"tree_entry_free:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"=" : " 11/28/2016 11:42:15",
+		"compare:" : " 11/28/2016 11:42:15",
+		"entries" : " 11/28/2016 11:42:15",
+		"entryByPath:" : " 11/28/2016 11:42:15",
+		"entryByPath:ifAbsent:" : " 11/28/2016 11:42:15",
+		"fileMode" : " 11/28/2016 11:42:15",
+		"filename" : " 11/28/2016 11:42:15",
+		"object" : " 11/28/2016 11:42:15",
+		"objectId" : " 11/28/2016 11:42:15",
+		"objectPrintOn:" : " 11/28/2016 11:42:15",
+		"subTreeEntries" : " 11/28/2016 11:42:15",
+		"tree_entry_cmp:e2:" : " 11/28/2016 11:42:15",
+		"tree_entry_filemode:" : " 11/28/2016 11:42:15",
+		"tree_entry_id:" : " 11/28/2016 11:42:15",
+		"tree_entry_name:" : " 11/28/2016 11:42:15",
+		"tree_entry_to_object:repo:entry:" : " 11/28/2016 11:42:15",
+		"tree_entry_type:" : " 11/28/2016 11:42:15",
+		"type" : " 11/28/2016 11:42:15" } }
