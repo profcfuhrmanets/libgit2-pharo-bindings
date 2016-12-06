@@ -1,9 +1,10 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_clone_local" : " 11/28/2016 11:42:15",
-		"git_clone_local_auto" : " 11/28/2016 11:42:15",
-		"git_clone_local_no_links" : " 11/28/2016 11:42:15",
-		"git_clone_no_local" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_clone_local" : " 12/5/2016 12:15:02",
+		"git_clone_local_no_links" : " 12/5/2016 12:15:02",
+		"git_clone_no_local" : " 12/5/2016 12:15:02",
+		"git_clone_local_auto" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02"
+	}
+}

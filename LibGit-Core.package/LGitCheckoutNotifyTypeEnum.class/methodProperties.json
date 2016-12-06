@@ -1,12 +1,13 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_all" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_conflict" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_dirty" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_ignored" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_none" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_untracked" : " 11/28/2016 11:42:15",
-		"git_checkout_notify_updated" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_checkout_notify_all" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_none" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_updated" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_conflict" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_dirty" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_ignored" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_checkout_notify_untracked" : " 12/5/2016 12:15:02"
+	}
+}

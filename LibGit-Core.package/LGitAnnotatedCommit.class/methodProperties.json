@@ -1,10 +1,13 @@
 {
-	"class" : {
-		"annotated_commit_free:" : " 11/28/2016 11:42:15",
-		"freeFunctionSelector" : " 11/28/2016 11:42:15",
-		"fromRef:" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"annotated_commit_from_ref:" : " 11/28/2016 11:42:15",
-		"annotated_commit_id" : " 11/28/2016 11:42:15",
-		"id" : " 11/28/2016 11:42:15",
-		"initializeFromRef:" : " 11/28/2016 11:42:15" } }
+		"initializeFromRef:" : " 12/5/2016 12:15:02",
+		"annotated_commit_from_ref:" : " 12/5/2016 12:15:02",
+		"id" : " 12/5/2016 12:15:02",
+		"annotated_commit_id" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"fromRef:" : " 12/5/2016 12:15:02",
+		"annotated_commit_free:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}

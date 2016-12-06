@@ -1,20 +1,23 @@
 {
-	"class" : {
-		"fieldsDesc" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"blame_init_options:version:" : " 11/28/2016 11:42:15",
-		"initializeWithDefaults" : " 11/28/2016 11:42:15",
-		"prim_flags" : " 11/28/2016 11:42:15",
-		"prim_flags:" : " 11/28/2016 11:42:15",
-		"prim_max_line" : " 11/28/2016 11:42:15",
-		"prim_max_line:" : " 11/28/2016 11:42:15",
-		"prim_min_line" : " 11/28/2016 11:42:15",
-		"prim_min_line:" : " 11/28/2016 11:42:15",
-		"prim_min_match_characters" : " 11/28/2016 11:42:15",
-		"prim_min_match_characters:" : " 11/28/2016 11:42:15",
-		"prim_newest_commit" : " 11/28/2016 11:42:15",
-		"prim_newest_commit:" : " 11/28/2016 11:42:15",
-		"prim_oldest_commit" : " 11/28/2016 11:42:15",
-		"prim_oldest_commit:" : " 11/28/2016 11:42:15",
-		"prim_version" : " 11/28/2016 11:42:15",
-		"prim_version:" : " 11/28/2016 11:42:15" } }
+		"prim_max_line" : " 12/5/2016 12:15:02",
+		"prim_min_match_characters:" : " 12/5/2016 12:15:02",
+		"prim_min_line" : " 12/5/2016 12:15:02",
+		"prim_min_match_characters" : " 12/5/2016 12:15:02",
+		"prim_max_line:" : " 12/5/2016 12:15:02",
+		"prim_version:" : " 12/5/2016 12:15:02",
+		"prim_flags:" : " 12/5/2016 12:15:02",
+		"prim_oldest_commit:" : " 12/5/2016 12:15:02",
+		"prim_min_line:" : " 12/5/2016 12:15:02",
+		"prim_newest_commit" : " 12/5/2016 12:15:02",
+		"prim_oldest_commit" : " 12/5/2016 12:15:02",
+		"prim_version" : " 12/5/2016 12:15:02",
+		"initializeWithDefaults" : " 12/5/2016 12:15:02",
+		"blame_init_options:version:" : " 12/5/2016 12:15:02",
+		"prim_flags" : " 12/5/2016 12:15:02",
+		"prim_newest_commit:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"fieldsDesc" : " 12/5/2016 12:15:02"
+	}
+}

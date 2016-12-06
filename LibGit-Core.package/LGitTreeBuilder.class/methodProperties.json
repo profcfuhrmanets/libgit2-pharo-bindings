@@ -1,20 +1,23 @@
 {
-	"class" : {
-		"freeFunctionSelector" : " 11/28/2016 11:42:15",
-		"fromTree:" : " 11/28/2016 11:42:15",
-		"of:fromTree:" : " 11/28/2016 11:42:15",
-		"treebuilder_free:" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"addEntry:filename:" : " 11/28/2016 11:42:15",
-		"addEntryWithId:filename:filemode:" : " 11/28/2016 11:42:15",
-		"clear" : " 11/28/2016 11:42:15",
-		"createNew" : " 11/28/2016 11:42:15",
-		"getEntryNamed:" : " 11/28/2016 11:42:15",
-		"initializeWithTree:" : " 11/28/2016 11:42:15",
-		"newTree" : " 11/28/2016 11:42:15",
-		"treebuilder_clear:" : " 11/28/2016 11:42:15",
-		"treebuilder_get:filename:" : " 11/28/2016 11:42:15",
-		"treebuilder_insert:bld:filename:id:filemode:" : " 11/28/2016 11:42:15",
-		"treebuilder_new:repo:source:" : " 11/28/2016 11:42:15",
-		"treebuilder_write:bld:" : " 11/28/2016 11:42:15",
-		"write" : " 11/28/2016 11:42:15" } }
+		"addEntryWithId:filename:filemode:" : " 12/5/2016 12:15:02",
+		"newTree" : " 12/5/2016 12:15:02",
+		"treebuilder_clear:" : " 12/5/2016 12:15:02",
+		"createNew" : " 12/5/2016 12:15:02",
+		"treebuilder_insert:bld:filename:id:filemode:" : " 12/5/2016 12:15:02",
+		"getEntryNamed:" : " 12/5/2016 12:15:02",
+		"initializeWithTree:" : " 12/5/2016 12:15:02",
+		"clear" : " 12/5/2016 12:15:02",
+		"treebuilder_new:repo:source:" : " 12/5/2016 12:15:02",
+		"treebuilder_write:bld:" : " 12/5/2016 12:15:02",
+		"write" : " 12/5/2016 12:15:02",
+		"addEntry:filename:" : " 12/5/2016 12:15:02",
+		"treebuilder_get:filename:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"treebuilder_free:" : " 12/5/2016 12:15:02",
+		"of:fromTree:" : " 12/5/2016 12:15:02",
+		"fromTree:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}

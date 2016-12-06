@@ -1,7 +1,8 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_direction_fetch" : " 11/28/2016 11:42:15",
-		"git_direction_push" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_direction_fetch" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_direction_push" : " 12/5/2016 12:15:02"
+	}
+}

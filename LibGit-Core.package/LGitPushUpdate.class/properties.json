@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitPushUpdate",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitPushUpdate",
+	"type" : "normal"
+}

@@ -1,15 +1,18 @@
 {
-	"class" : {
-		"blame_free:" : " 11/28/2016 11:42:15",
-		"freeFunctionSelector" : " 11/28/2016 11:42:15",
-		"of:on:" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"blame_buffer:reference:buffer:buffer_len:" : " 11/28/2016 11:42:15",
-		"blame_file:repo:path:options:" : " 11/28/2016 11:42:15",
-		"blame_get_hunk_byindex:index:" : " 11/28/2016 11:42:15",
-		"blame_get_hunk_byline:lineno:" : " 11/28/2016 11:42:15",
-		"blame_get_hunk_count:" : " 11/28/2016 11:42:15",
-		"getForReference:" : " 11/28/2016 11:42:15",
-		"hunkAt:" : " 11/28/2016 11:42:15",
-		"hunkAtLineNumber:" : " 11/28/2016 11:42:15",
-		"numberOfHunks" : " 11/28/2016 11:42:15" } }
+		"hunkAtLineNumber:" : " 12/5/2016 12:15:02",
+		"blame_get_hunk_byindex:index:" : " 12/5/2016 12:15:02",
+		"blame_file:repo:path:options:" : " 12/5/2016 12:15:02",
+		"blame_buffer:reference:buffer:buffer_len:" : " 12/5/2016 12:15:02",
+		"getForReference:" : " 12/5/2016 12:15:02",
+		"hunkAt:" : " 12/5/2016 12:15:02",
+		"numberOfHunks" : " 12/5/2016 12:15:02",
+		"blame_get_hunk_count:" : " 12/5/2016 12:15:02",
+		"blame_get_hunk_byline:lineno:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"blame_free:" : " 12/5/2016 12:15:02",
+		"of:on:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02"
+	}
+}
