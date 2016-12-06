@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testCheckout" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testLookupHead" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testBranchesNotEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testBranchNamesNotEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testLookupMasterBranch" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateTag" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRevparse" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

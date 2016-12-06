@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testPatchFromDiff" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testDiffTreeToTree" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testGetDelta" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testNumDeltasNonZero" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testNumDeltasZero" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testDiffContentForCommit" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

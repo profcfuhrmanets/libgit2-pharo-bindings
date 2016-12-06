@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testHunkAtLineNumber" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"touchFileWithMultipleLines" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testNumberOfHunks" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testGettingBlame" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testGenerateBlameOutput" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testHunkAt" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

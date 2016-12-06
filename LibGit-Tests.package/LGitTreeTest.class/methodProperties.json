@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testEquals" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEntryByPathAbsent" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEqualsUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testPrinting" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAllEntriesDo" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testPrintingUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEntryByNameAbsent" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEntryByName" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEntryByPath" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

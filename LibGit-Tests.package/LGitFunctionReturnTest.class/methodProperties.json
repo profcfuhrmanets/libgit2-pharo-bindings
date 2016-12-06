@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testDoesntSignalCallReturn" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAllHandlersDefined" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testDoesntSignalGitOk" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testSignalsCallError" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

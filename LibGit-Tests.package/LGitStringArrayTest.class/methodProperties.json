@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testStringsGet" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testStringsPut" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testFree" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAutoRelease" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

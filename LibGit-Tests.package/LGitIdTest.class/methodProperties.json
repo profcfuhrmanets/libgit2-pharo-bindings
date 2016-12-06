@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testPrinting" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAsRelativePathString" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEqualsSimple" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testHexString" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEquals" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAsInteger" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

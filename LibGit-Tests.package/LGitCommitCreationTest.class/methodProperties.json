@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testExternalCommitArray" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"createAuthor" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"createSubTreeWith:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"setUp" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"createRootTreeWith:" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"createBlob" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateCommit" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

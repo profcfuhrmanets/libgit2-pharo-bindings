@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"testRepoOpening" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testLookupHead" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoIsEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoOpeningBeforeInitialization" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreate" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testLookupMasterBranch" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoNotBareBeforeInitialization" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoShouldHaveName" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testBranchesEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testHasHead" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoNotBareAfterInitialization" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testFree" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoShouldHaveWorkingDirectory" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testAutoRelease" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testBranchNamesEmpty" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoInitialization" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testRepoAccessBeforeOpening" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testDefaultSignature" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}

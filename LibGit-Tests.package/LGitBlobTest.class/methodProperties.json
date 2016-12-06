@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"testNotBinary" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testPrinting" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateFromString" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testFromId" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateFromByteArray" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEquals" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateReference" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateFromNonExternalCollection" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testFree" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testEqualsUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testPrintingUninitialized" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testCreateFromFile" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testShortId" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12",
+		"testBinary" : "NicolÃ\u0083Â¡s Passerini 12/5/2016 18:27:12"
+	},
+	"class" : { }
+}
