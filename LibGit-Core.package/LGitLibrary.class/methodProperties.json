@@ -1,17 +1,20 @@
 {
-	"class" : {
-		"initialize" : " 11/28/2016 11:42:15",
-		"isInitialized" : " 11/28/2016 11:42:15",
-		"startUp:" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"initializeLibGit2" : " 11/28/2016 11:42:15",
-		"libgit2_features" : " 11/28/2016 11:42:15",
-		"libgit2_featuresAlt" : " 11/28/2016 11:42:15",
-		"libgit2_init" : " 11/28/2016 11:42:15",
-		"libgit2_shutdown" : " 11/28/2016 11:42:15",
-		"libgit2_version:minor:rev:" : " 11/28/2016 11:42:15",
-		"macModuleName" : " 11/28/2016 11:42:15",
-		"shutdownLibGit2" : " 11/28/2016 11:42:15",
-		"unixModuleName" : " 11/28/2016 11:42:15",
-		"version" : " 11/28/2016 11:42:15",
-		"win32ModuleName" : " 11/28/2016 11:42:15" } }
+		"shutdownLibGit2" : " 12/5/2016 12:15:02",
+		"initializeLibGit2" : " 12/5/2016 12:15:02",
+		"macModuleName" : " 12/5/2016 12:15:02",
+		"version" : " 12/5/2016 12:15:02",
+		"libgit2_version:minor:rev:" : " 12/5/2016 12:15:02",
+		"libgit2_features" : " 12/5/2016 12:15:02",
+		"unixModuleName" : " 12/5/2016 12:15:02",
+		"libgit2_init" : " 12/5/2016 12:15:02",
+		"libgit2_shutdown" : " 12/5/2016 12:15:02",
+		"libgit2_featuresAlt" : " 12/5/2016 12:15:02",
+		"win32ModuleName" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"initialize" : " 12/5/2016 12:15:02",
+		"isInitialized" : " 12/5/2016 12:15:02",
+		"startUp:" : " 12/5/2016 12:15:02"
+	}
+}

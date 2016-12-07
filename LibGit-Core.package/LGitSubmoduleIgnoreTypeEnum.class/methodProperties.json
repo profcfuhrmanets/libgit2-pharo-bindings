@@ -1,11 +1,12 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_all" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_default" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_dirty" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_none" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_reset" : " 11/28/2016 11:42:15",
-		"git_submodule_ignore_untracked" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_submodule_ignore_dirty" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_submodule_ignore_none" : " 12/5/2016 12:15:02",
+		"git_submodule_ignore_reset" : " 12/5/2016 12:15:02",
+		"git_submodule_ignore_untracked" : " 12/5/2016 12:15:02",
+		"git_submodule_ignore_all" : " 12/5/2016 12:15:02",
+		"git_submodule_ignore_default" : " 12/5/2016 12:15:02"
+	}
+}

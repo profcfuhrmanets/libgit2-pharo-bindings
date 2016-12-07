@@ -1,16 +1,19 @@
 {
-	"class" : {
-		"username:passphrase:publicKeyReference:privateKeyReference:" : " 11/28/2016 11:42:15" },
 	"instance" : {
-		"createWith:" : " 11/28/2016 11:42:15",
-		"cred_ssh_key_new:username:publickey:privatekey:passphrase:" : " 11/28/2016 11:42:15",
-		"cred_username_new:username:" : " 11/28/2016 11:42:15",
-		"prim_credtype" : " 11/28/2016 11:42:15",
-		"prim_credtype:" : " 11/28/2016 11:42:15",
-		"prim_free" : " 11/28/2016 11:42:15",
-		"prim_free:" : " 11/28/2016 11:42:15",
-		"privateKeyReference" : " 11/28/2016 11:42:15",
-		"privateKeyReference:" : " 11/28/2016 11:42:15",
-		"publicKeyReference" : " 11/28/2016 11:42:15",
-		"publicKeyReference:" : " 11/28/2016 11:42:15",
-		"setGitUsernameIn:" : " 11/28/2016 11:42:15" } }
+		"prim_credtype:" : " 12/5/2016 12:15:02",
+		"privateKeyReference:" : " 12/5/2016 12:15:02",
+		"createWith:" : " 12/5/2016 12:15:02",
+		"privateKeyReference" : " 12/5/2016 12:15:02",
+		"publicKeyReference" : " 12/5/2016 12:15:02",
+		"prim_free" : " 12/5/2016 12:15:02",
+		"setGitUsernameIn:" : " 12/5/2016 12:15:02",
+		"cred_username_new:username:" : " 12/5/2016 12:15:02",
+		"prim_credtype" : " 12/5/2016 12:15:02",
+		"publicKeyReference:" : " 12/5/2016 12:15:02",
+		"cred_ssh_key_new:username:publickey:privatekey:passphrase:" : " 12/5/2016 12:15:02",
+		"prim_free:" : " 12/5/2016 12:15:02"
+	},
+	"class" : {
+		"username:passphrase:publicKeyReference:privateKeyReference:" : " 12/5/2016 12:15:02"
+	}
+}

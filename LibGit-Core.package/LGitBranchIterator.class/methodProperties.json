@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"allBranchesOf:do:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"branch_iterator_free:" : " 11/28/2016 11:42:15",
-		"freeFunctionSelector" : " 11/28/2016 11:42:15",
-		"localBranchesOf:do:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"of:branchType:do:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"remoteBranchesOf:do:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00" },
 	"instance" : {
-		"branch_iterator_new:repo:list_flags:" : " 11/28/2016 11:42:15",
-		"branch_next:out_type:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"branchesDo:" : "NicoPasserini 12/6/2016 11:57",
-		"iterate:" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00" } }
+		"iterate:" : " 12/5/2016 12:15:02",
+		"branch_next:out_type:" : " 12/5/2016 12:15:02",
+		"branch_iterator_new:repo:list_flags:" : " 12/5/2016 12:15:02",
+		"branchesDo:" : "NicoPasserini 12/6/2016 11:57"
+	},
+	"class" : {
+		"localBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"remoteBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"freeFunctionSelector" : " 12/5/2016 12:15:02",
+		"of:branchType:do:" : " 12/5/2016 12:15:02",
+		"allBranchesOf:do:" : " 12/5/2016 12:15:02",
+		"branch_iterator_free:" : " 12/5/2016 12:15:02"
+	}
+}

@@ -1,8 +1,9 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_fetch_no_prune" : " 11/28/2016 11:42:15",
-		"git_fetch_prune" : " 11/28/2016 11:42:15",
-		"git_fetch_prune_unspecified" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_fetch_prune" : " 12/5/2016 12:15:02",
+		"git_fetch_prune_unspecified" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_fetch_no_prune" : " 12/5/2016 12:15:02"
+	}
+}

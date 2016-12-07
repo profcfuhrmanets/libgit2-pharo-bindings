@@ -1,9 +1,10 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : " 11/28/2016 11:42:15",
-		"git_ref_invalid" : " 11/28/2016 11:42:15",
-		"git_ref_listall" : " 11/28/2016 11:42:15",
-		"git_ref_oid" : " 11/28/2016 11:42:15",
-		"git_ref_symbolic" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_ref_invalid" : " 12/5/2016 12:15:02",
+		"git_ref_symbolic" : " 12/5/2016 12:15:02",
+		"git_ref_listall" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02",
+		"git_ref_oid" : " 12/5/2016 12:15:02"
+	}
+}

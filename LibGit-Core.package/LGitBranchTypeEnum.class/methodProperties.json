@@ -1,8 +1,9 @@
 {
+	"instance" : { },
 	"class" : {
-		"enumDecl" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"git_branch_all" : "NicolÃÂ¡s Passerini 11/29/2016 13:53:00",
-		"git_branch_local" : " 11/28/2016 11:42:15",
-		"git_branch_remote" : " 11/28/2016 11:42:15" },
-	"instance" : {
-		 } }
+		"git_branch_remote" : " 12/5/2016 12:15:02",
+		"git_branch_local" : " 12/5/2016 12:15:02",
+		"git_branch_all" : " 12/5/2016 12:15:02",
+		"enumDecl" : " 12/5/2016 12:15:02"
+	}
+}

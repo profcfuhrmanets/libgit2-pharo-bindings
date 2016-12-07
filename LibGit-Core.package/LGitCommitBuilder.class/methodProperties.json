@@ -1,23 +1,24 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"author" : " 11/28/2016 11:42:15",
-		"author:" : " 11/28/2016 11:42:15",
-		"commitId" : " 11/28/2016 11:42:15",
-		"commitId:" : " 11/28/2016 11:42:15",
-		"commit_create:repo:update_ref:author:committer:message_encoding:message:tree:parent_count:parents:" : " 11/28/2016 11:42:15",
-		"committer" : " 11/28/2016 11:42:15",
-		"committer:" : " 11/28/2016 11:42:15",
-		"message" : " 11/28/2016 11:42:15",
-		"message:" : " 11/28/2016 11:42:15",
-		"messageEncoding" : " 11/28/2016 11:42:15",
-		"messageEncoding:" : " 11/28/2016 11:42:15",
-		"parents" : " 11/28/2016 11:42:15",
-		"parents:" : " 11/28/2016 11:42:15",
-		"tree" : " 11/28/2016 11:42:15",
-		"tree:" : " 11/28/2016 11:42:15",
+		"commitId" : " 12/5/2016 12:15:02",
+		"author:" : " 12/5/2016 12:15:02",
+		"message" : " 12/5/2016 12:15:02",
+		"committer:" : " 12/5/2016 12:15:02",
+		"tree" : " 12/5/2016 12:15:02",
+		"updateReference:" : " 12/5/2016 12:15:02",
+		"messageEncoding" : " 12/5/2016 12:15:02",
+		"parents:" : " 12/5/2016 12:15:02",
+		"messageEncoding:" : " 12/5/2016 12:15:02",
 		"updateReference" : "NicoPasserini 12/5/2016 17:58",
-		"updateReference:" : " 11/28/2016 11:42:15",
+		"committer" : " 12/5/2016 12:15:02",
+		"parents" : " 12/5/2016 12:15:02",
+		"tree:" : " 12/5/2016 12:15:02",
+		"message:" : " 12/5/2016 12:15:02",
+		"writtenCommit" : " 12/5/2016 12:15:02",
 		"writeCommit" : "NicoPasserini 12/5/2016 17:51",
-		"writtenCommit" : " 11/28/2016 11:42:15" } }
+		"author" : " 12/5/2016 12:15:02",
+		"commitId:" : " 12/5/2016 12:15:02",
+		"commit_create:repo:update_ref:author:committer:message_encoding:message:tree:parent_count:parents:" : " 12/5/2016 12:15:02"
+	},
+	"class" : { }
+}
