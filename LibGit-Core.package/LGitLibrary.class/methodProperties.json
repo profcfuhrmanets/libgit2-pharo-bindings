@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"initialize" : " 12/8/2016 16:55:38",
+		"isInitialized" : " 12/8/2016 16:55:38",
+		"startUp:" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		"initializeLibGit2" : " 12/8/2016 16:55:38",
+		"libgit2_features" : " 12/8/2016 16:55:38",
+		"libgit2_featuresAlt" : " 12/8/2016 16:55:38",
+		"libgit2_init" : " 12/8/2016 16:55:38",
+		"libgit2_shutdown" : " 12/8/2016 16:55:38",
+		"libgit2_version:minor:rev:" : " 12/8/2016 16:55:38",
+		"macModuleName" : " 12/8/2016 16:55:38",
+		"shutdownLibGit2" : " 12/8/2016 16:55:38",
+		"unixModuleName" : " 12/8/2016 16:55:38",
+		"version" : " 12/8/2016 16:55:38",
+		"win32ModuleName" : " 12/8/2016 16:55:38" } }

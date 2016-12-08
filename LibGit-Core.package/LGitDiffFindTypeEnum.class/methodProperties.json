@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"enumDecl" : " 12/8/2016 16:55:38",
+		"git_diff_break_rewrites" : " 12/8/2016 16:55:38",
+		"git_diff_break_rewrites_for_renames_only" : " 12/8/2016 16:55:38",
+		"git_diff_find_all" : " 12/8/2016 16:55:38",
+		"git_diff_find_and_break_rewrites" : " 12/8/2016 16:55:38",
+		"git_diff_find_by_config" : " 12/8/2016 16:55:38",
+		"git_diff_find_copies" : " 12/8/2016 16:55:38",
+		"git_diff_find_copies_from_unmodified" : " 12/8/2016 16:55:38",
+		"git_diff_find_dont_ignore_whitespace" : " 12/8/2016 16:55:38",
+		"git_diff_find_exact_match_only" : " 12/8/2016 16:55:38",
+		"git_diff_find_for_untracked" : " 12/8/2016 16:55:38",
+		"git_diff_find_ignore_whitespace" : " 12/8/2016 16:55:38",
+		"git_diff_find_remove_unmodified" : " 12/8/2016 16:55:38",
+		"git_diff_find_renames" : " 12/8/2016 16:55:38",
+		"git_diff_find_renames_from_rewrites" : " 12/8/2016 16:55:38",
+		"git_diff_find_rewrites" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		 } }

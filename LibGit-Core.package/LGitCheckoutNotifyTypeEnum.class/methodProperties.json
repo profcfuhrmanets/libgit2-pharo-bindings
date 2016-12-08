@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"enumDecl" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_all" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_conflict" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_dirty" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_ignored" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_none" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_untracked" : " 12/8/2016 16:55:38",
+		"git_checkout_notify_updated" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		 } }

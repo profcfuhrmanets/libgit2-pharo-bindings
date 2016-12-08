@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"username:passphrase:publicKeyReference:privateKeyReference:" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		"createWith:" : " 12/8/2016 16:55:38",
+		"cred_ssh_key_new:username:publickey:privatekey:passphrase:" : " 12/8/2016 16:55:38",
+		"cred_username_new:username:" : " 12/8/2016 16:55:38",
+		"prim_credtype" : " 12/8/2016 16:55:38",
+		"prim_credtype:" : " 12/8/2016 16:55:38",
+		"prim_free" : " 12/8/2016 16:55:38",
+		"prim_free:" : " 12/8/2016 16:55:38",
+		"privateKeyReference" : " 12/8/2016 16:55:38",
+		"privateKeyReference:" : " 12/8/2016 16:55:38",
+		"publicKeyReference" : " 12/8/2016 16:55:38",
+		"publicKeyReference:" : " 12/8/2016 16:55:38",
+		"setGitUsernameIn:" : " 12/8/2016 16:55:38" } }

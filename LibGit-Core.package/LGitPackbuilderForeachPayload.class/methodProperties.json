@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"fieldsDesc" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		"prim_progress_cb" : " 12/8/2016 16:55:38",
+		"prim_progress_cb:" : " 12/8/2016 16:55:38",
+		"prim_progress_payload" : " 12/8/2016 16:55:38",
+		"prim_progress_payload:" : " 12/8/2016 16:55:38",
+		"prim_stats" : " 12/8/2016 16:55:38",
+		"prim_stats:" : " 12/8/2016 16:55:38",
+		"prim_writepack" : " 12/8/2016 16:55:38",
+		"prim_writepack:" : " 12/8/2016 16:55:38",
+		"stats" : " 12/8/2016 16:55:38",
+		"stats:" : " 12/8/2016 16:55:38",
+		"writepack" : " 12/8/2016 16:55:38",
+		"writepack:" : " 12/8/2016 16:55:38" } }

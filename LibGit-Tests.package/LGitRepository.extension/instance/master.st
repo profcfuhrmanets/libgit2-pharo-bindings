@@ -1,4 +1,4 @@
-*LibGit-Tests
+*Libgit-Tests
 master
 	<todo: 'handle return code properly; don''t use a dummy reference'>
 	

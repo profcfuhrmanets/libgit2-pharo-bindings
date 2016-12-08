@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"diff_patch_free:" : " 12/8/2016 16:55:38",
+		"freeFunctionSelector" : " 12/8/2016 16:55:38",
+		"fromDiff:at:" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		"fromDiff:at:" : " 12/8/2016 16:55:38",
+		"hunkAt:" : " 12/8/2016 16:55:38",
+		"patch_from_blob_and_buffer:old_blob:old_as_path:buffer:buffer_len:buffer_as_path:opts:" : " 12/8/2016 16:55:38",
+		"patch_from_blobs:old_blob:old_as_path:new_blob:new_as_path:opts:" : " 12/8/2016 16:55:38",
+		"patch_from_buffers:old_buffer:old_len:old_as_path:new_buffer:new_len:new_as_path:opts:" : " 12/8/2016 16:55:38",
+		"patch_from_diff:diff:idx:" : " 12/8/2016 16:55:38",
+		"patch_get_delta:" : " 12/8/2016 16:55:38",
+		"patch_get_hunk:lines_in_hunk:patch:hunk_idx:" : " 12/8/2016 16:55:38",
+		"patch_get_line_in_hunk:patch:hunk_idx:line_of_hunk:" : " 12/8/2016 16:55:38",
+		"patch_print:print_cb:payload:" : " 12/8/2016 16:55:38",
+		"printDiff" : " 12/8/2016 16:55:38",
+		"printDiffOn:" : " 12/8/2016 16:55:38" } }

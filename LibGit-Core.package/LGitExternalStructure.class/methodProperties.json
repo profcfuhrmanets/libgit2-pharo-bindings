@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"createAccessorsFor:" : " 12/8/2016 16:55:38",
+		"fieldNamesAndProtocols" : " 12/8/2016 16:55:38",
+		"fieldSpec" : " 12/8/2016 16:55:38",
+		"finalizeResourceData:" : " 12/8/2016 16:55:38",
+		"free:" : " 12/8/2016 16:55:38",
+		"freeFunctionSelector" : " 12/8/2016 16:55:38",
+		"fromExternalAddress:" : " 12/8/2016 16:55:38",
+		"generatedFieldProtocolName" : " 12/8/2016 16:55:38",
+		"protocolForField:" : " 12/8/2016 16:55:38",
+		"removeAccessor:" : " 12/8/2016 16:55:38" },
+	"instance" : {
+		"autoRelease" : " 12/8/2016 16:55:38",
+		"free" : " 12/8/2016 16:55:38",
+		"isExternal" : " 12/8/2016 16:55:38",
+		"resourceData" : " 12/8/2016 16:55:38" } }
