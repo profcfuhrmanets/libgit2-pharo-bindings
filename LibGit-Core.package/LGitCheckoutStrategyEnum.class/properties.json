@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "MaxLeske 8/13/2015 11:06",
-	"super" : "LGitExternalEnumerationUInt32",
 	"category" : "LibGit-Core-FFI-Enums",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 8/13/2015 11:06",
+	"instvars" : [
+		 ],
 	"name" : "LGitCheckoutStrategyEnum",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalEnumerationUInt32",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"fetchOptions"
-	],
+		"fetchOptions" ],
 	"name" : "LGitCloneOptions",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }

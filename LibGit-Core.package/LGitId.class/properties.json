@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitId",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }

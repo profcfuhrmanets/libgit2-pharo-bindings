@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitExternalObject",
 	"category" : "LibGit-Core-HelperObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitPackBuilder",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalObject",
+	"type" : "normal" }

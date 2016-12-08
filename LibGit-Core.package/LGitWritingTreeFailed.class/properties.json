@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitAbstractError",
 	"category" : "LibGit-Core-Exceptions",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitWritingTreeFailed",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitAbstractError",
+	"type" : "normal" }
