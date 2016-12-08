@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "FFILibrary",
 	"category" : "LibGit-Core-FFI-Handling",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"Initialized"
-	],
-	"instvars" : [ ],
+		"Initialized" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitLibrary",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "FFILibrary",
+	"type" : "normal" }

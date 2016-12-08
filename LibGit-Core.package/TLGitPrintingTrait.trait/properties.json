@@ -1,5 +1,4 @@
 {
-	"name" : "TLGitPrintingTrait",
+	"category" : "LibGit-Core-Traits",
 	"commentStamp" : "",
-	"category" : "LibGit-Core-Traits"
-}
+	"name" : "TLGitPrintingTrait" }
