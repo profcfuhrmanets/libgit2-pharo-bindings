@@ -1,0 +1,3 @@
+history
+lastStoredRun
+	^ ((Dictionary new) add: (#timeStamp->(DateAndTime basicNew instVarAt: 1 put: 72896; instVarAt: 2 put: (Duration seconds: 3600 nanoSeconds: 0); instVarAt: 3 put: 2457731; instVarAt: 4 put: 825183000; yourself)); add: (#passed->((Set new) add: #testNotBinary; add: #testPrinting; add: #testCreateFromString; add: #testFromId; add: #testCreateFromByteArray; add: #testEquals; add: #testCreateReference; add: #testCreateFromNonExternalCollection; add: #testFree; add: #testEqualsUninitialized; add: #testPrintingUninitialized; add: #testCreateFromFile; add: #testShortId; add: #testBinary; yourself)); add: (#failures->((Set new))); add: (#errors->((Set new))); yourself)

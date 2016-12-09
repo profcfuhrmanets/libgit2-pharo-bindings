@@ -1,6 +1,3 @@
-accessing
+enumerating
 allBranchesDo: aBlock
-	^ OrderedCollection new: 10 streamContents: [ :stream |
-		LGitBranchIterator 
-			allBranchesOf: self 
-			do: aBlock ]
+	LGitBranchIterator allBranchesOf: self do: aBlock

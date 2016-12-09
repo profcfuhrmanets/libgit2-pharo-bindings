@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"libSSH2LibraryName" : " 11/28/2016 11:42:15",
-		"libSSH2Version:" : " 11/28/2016 11:42:15",
-		"testLibGit2Loadable" : " 11/28/2016 11:42:15",
-		"testLibSSH2Loadable" : " 11/28/2016 11:42:15" } }

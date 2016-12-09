@@ -12,4 +12,4 @@ branchesDo: aBlock
 		isLocal := branchType value = LGitBranchTypeEnum git_branch_local value.
 		returnCode = finishedCode 
 	] 
-	whileFalse: [ aBlock cull: reference name cull: isLocal ]
+	whileFalse: [ aBlock cull: reference cull: isLocal ]

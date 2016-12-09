@@ -1,4 +1,3 @@
 accessing
 branchNames
-	^ OrderedCollection new: 10 streamContents: [ :stream |
-		self branchesDo: [ :reference | stream nextPut: reference ] ]
+	^ self branches collect: #name
