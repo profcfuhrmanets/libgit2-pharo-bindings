@@ -5,5 +5,5 @@ newCredentialsCallbackFor: provider
 		https://github.com/libgit2/libgit2/blob/HEAD/include/git2/transport.h#L81-111"
 		(allowed_types anyMask: 1 << 0) 
 			ifTrue: [ LGitCredentialsPlaintext createFrom: provider onto: output ]
-			ifFalse: [ Transcript logCr: ('I can''t create credentials for type: {1}' format: allowed_types). -1 ]
+			ifFalse: [ Transcript logCr: ('I can''t create credentials for type: {1}' format: {allowed_types}). -1 ]
 	].
