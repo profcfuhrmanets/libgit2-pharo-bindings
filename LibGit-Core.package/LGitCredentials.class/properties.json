@@ -1,17 +1,16 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TLGitCalloutTrait classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
+	"classvars" : [ ],
 	"instvars" : [
 		"username",
-		"passphrase" ],
+		"passphrase"
+	],
 	"name" : "LGitCredentials",
-	"pools" : [
-		 ],
+	"commentStamp" : "",
 	"super" : "LGitExternalStructure",
 	"traitcomposition" : "TLGitCalloutTrait",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "LibGit-Core-FFI-Structs"
+}

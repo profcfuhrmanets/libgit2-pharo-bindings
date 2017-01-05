@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EstebanLorenzano 1/5/2017 16:00",
+	"super" : "LGitExternalStructure",
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitRemoteHead",
+	"type" : "normal"
+}
