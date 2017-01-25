@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitCallback",
 	"category" : "LibGit-Core-FFI-Callbacks",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitPushStatusForeachCallback",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitCallback",
+	"type" : "normal" }

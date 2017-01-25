@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitRepositoryObject",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitTreeEntry",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitRepositoryObject",
+	"type" : "normal" }

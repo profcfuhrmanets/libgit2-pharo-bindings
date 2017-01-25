@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "EstebanLorenzano 1/5/2017 16:00",
-	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EstebanLorenzano 1/5/2017 16:00",
+	"instvars" : [
+		 ],
 	"name" : "LGitRemoteHead",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }

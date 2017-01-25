@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitCallout",
 	"category" : "LibGit-Core-FFI-Callouts",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitCredentialsFreeCallout",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitCallout",
+	"type" : "normal" }

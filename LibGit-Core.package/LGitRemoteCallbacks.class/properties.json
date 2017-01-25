@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "MaxLeske 8/13/2015 13:20",
-	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 8/13/2015 13:20",
 	"instvars" : [
 		"credentialsCallback",
-		"certificateCheckCallback"
-	],
+		"certificateCheckCallback" ],
 	"name" : "LGitRemoteCallbacks",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }

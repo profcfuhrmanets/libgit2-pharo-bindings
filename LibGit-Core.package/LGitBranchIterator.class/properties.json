@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitRepositoryObject",
 	"category" : "LibGit-Core-HelperObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitBranchIterator",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitRepositoryObject",
+	"type" : "normal" }
