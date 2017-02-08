@@ -8,5 +8,5 @@ createFrom: provider onto: lgitCredentials
 		credentials createWith: lgitCredentials.
 		^ 0
 	]
-	on: IceNoCredentialsProvided 
-	do: [ -1 ]
+	on: LGitNoCredentialsProvided do: [ 
+		-1 ]
