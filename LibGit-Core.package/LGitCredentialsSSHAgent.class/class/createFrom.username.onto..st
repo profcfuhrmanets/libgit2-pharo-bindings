@@ -8,4 +8,5 @@ createFrom: provider username: username onto: lgitCredentials
 		credentials createWith: username onto: lgitCredentials.
 		^ 0 ]
 	on: LGitNoCredentialsProvided do: [ 
-		-1 ]
+		LGitError setError: 'No ssh-agent suitable credentials found.'.
+		^ -1 ]

@@ -8,4 +8,5 @@ createFrom: provider onto: lgitCredentials
 		^ 0
 	]
 	on: LGitNoCredentialsProvided do: [ :e | 
+		LGitError setError: 'Invalid username and/or password provided.'.				
 		^ -1 ]

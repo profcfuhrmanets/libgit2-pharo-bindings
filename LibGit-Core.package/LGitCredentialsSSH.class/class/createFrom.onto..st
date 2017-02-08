@@ -9,4 +9,5 @@ createFrom: provider onto: lgitCredentials
 		^ 0
 	]
 	on: LGitNoCredentialsProvided do: [ 
+		LGitError setError: 'Invalid ssh keys in provided files.'.		
 		-1 ]
