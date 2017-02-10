@@ -1,5 +1,5 @@
 operations
-fetch
+fetchWithCredentials: aCredentialsProvider
 	self isReady ifFalse: [ self create ].
 
 	self withReturnHandlerDo: [ 
@@ -7,6 +7,6 @@ fetch
 			remote_fetch: self
 			refspecs: self ffiNull handle
 			opts: (LGitFetchOptions defaults
-				callbacks: LGitRemoteCallbacks defaults;
+				callbacks:(LGitRemoteCallbacks withProvider: aCredentialsProvider);
 				yourself)
 			reflog_message: nil ]

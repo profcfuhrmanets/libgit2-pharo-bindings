@@ -6,9 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"publicKeyReference",
-		"privateKeyReference" ],
-	"name" : "LGitCredentialsSSH",
+		 ],
+	"name" : "LGitCredentialsSSHAgent",
 	"pools" : [
 		 ],
 	"super" : "LGitCredentials",

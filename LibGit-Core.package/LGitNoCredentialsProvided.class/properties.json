@@ -1,0 +1,14 @@
+{
+	"category" : "LibGit-Core-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "EstebanLorenzano 2/8/2017 16:19",
+	"instvars" : [
+		 ],
+	"name" : "LGitNoCredentialsProvided",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
