@@ -1,4 +1,4 @@
 libgit-fields
 prim_local: anObject
 	"This method was automatically generated"
-	handle signedLongAt: 1 put: anObject
+	handle signedLongAt: OFFSET_PRIM_LOCAL put: anObject

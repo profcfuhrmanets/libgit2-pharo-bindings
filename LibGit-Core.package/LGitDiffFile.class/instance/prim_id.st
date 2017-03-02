@@ -1,3 +1,4 @@
 libgit-fields
 prim_id
-	^LGitId fromByteArray: (handle structAt: 1 length: 20)
+	"This method was automatically generated"
+	^LGitId fromHandle: (handle referenceStructAt: OFFSET_PRIM_ID length: 20)
