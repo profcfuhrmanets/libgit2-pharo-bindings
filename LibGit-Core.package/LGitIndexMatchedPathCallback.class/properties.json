@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"super" : "LGitCallback",
 	"category" : "LibGit-Core-FFI-Callbacks",
 	"classinstvars" : [ ],
