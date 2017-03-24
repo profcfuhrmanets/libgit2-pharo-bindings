@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "LGitExternalObject",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"repositoryPath",
 		"isOpen",
-		"workingDirectory"
-	],
+		"workingDirectory" ],
 	"name" : "LGitRepository",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalObject",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Error",
 	"category" : "LibGit-Core-Exceptions",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"object"
-	],
+		"object" ],
 	"name" : "LGitAbstractError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
