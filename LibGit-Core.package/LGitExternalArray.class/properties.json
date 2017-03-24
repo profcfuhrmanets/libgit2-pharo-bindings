@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "MaxLeske 7/14/2015 09:09",
-	"super" : "FFIExternalArray",
 	"category" : "LibGit-Core-HelperObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MaxLeske 7/14/2015 09:09",
+	"instvars" : [
+		 ],
 	"name" : "LGitExternalArray",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "FFIExternalArray",
+	"type" : "normal" }

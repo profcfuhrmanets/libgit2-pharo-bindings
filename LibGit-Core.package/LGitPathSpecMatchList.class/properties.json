@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitRepositoryObject",
 	"category" : "LibGit-Core-NonCoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitPathSpecMatchList",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitRepositoryObject",
+	"type" : "normal" }
