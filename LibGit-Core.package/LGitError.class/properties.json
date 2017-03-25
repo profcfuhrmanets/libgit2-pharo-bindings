@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"OFFSET_PRIM_KLASS",
-		"OFFSET_PRIM_MESSAGE"
-	],
-	"instvars" : [ ],
+		"OFFSET_PRIM_MESSAGE" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }

@@ -1,5 +1,4 @@
 {
-	"name" : "TLGitCalloutTrait",
+	"category" : "LibGit-Core-Traits",
 	"commentStamp" : "",
-	"category" : "LibGit-Core-Traits"
-}
+	"name" : "TLGitCalloutTrait" }

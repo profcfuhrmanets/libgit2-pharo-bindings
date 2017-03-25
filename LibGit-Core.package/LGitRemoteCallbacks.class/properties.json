@@ -1,9 +1,7 @@
 {
-	"commentStamp" : "MaxLeske 8/13/2015 13:20",
-	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"OFFSET_PRIM_CERTIFICATE_CHECK",
 		"OFFSET_PRIM_COMPLETION",
@@ -17,12 +15,13 @@
 		"OFFSET_PRIM_TRANSFER_PROGRESS",
 		"OFFSET_PRIM_TRANSPORT",
 		"OFFSET_PRIM_UPDATE_TIPS",
-		"OFFSET_PRIM_VERSION"
-	],
+		"OFFSET_PRIM_VERSION" ],
+	"commentStamp" : "MaxLeske 8/13/2015 13:20",
 	"instvars" : [
 		"credentialsCallback",
-		"certificateCheckCallback"
-	],
+		"certificateCheckCallback" ],
 	"name" : "LGitRemoteCallbacks",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }

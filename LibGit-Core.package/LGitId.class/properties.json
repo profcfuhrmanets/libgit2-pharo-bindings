@@ -1,9 +1,7 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"OFFSET_PRIM_DATA1",
 		"OFFSET_PRIM_DATA10",
@@ -24,9 +22,12 @@
 		"OFFSET_PRIM_DATA6",
 		"OFFSET_PRIM_DATA7",
 		"OFFSET_PRIM_DATA8",
-		"OFFSET_PRIM_DATA9"
-	],
-	"instvars" : [ ],
+		"OFFSET_PRIM_DATA9" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "LGitId",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }

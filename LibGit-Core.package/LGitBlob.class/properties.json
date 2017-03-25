@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitObject",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitBlob",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitObject",
+	"type" : "normal" }

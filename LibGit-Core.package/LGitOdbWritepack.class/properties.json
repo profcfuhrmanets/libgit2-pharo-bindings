@@ -1,16 +1,17 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"OFFSET_PRIM_APPEND",
 		"OFFSET_PRIM_BACKEND",
 		"OFFSET_PRIM_COMMIT",
-		"OFFSET_PRIM_FREE"
-	],
-	"instvars" : [ ],
+		"OFFSET_PRIM_FREE" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "LGitOdbWritepack",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitExternalStructure",
+	"type" : "normal" }
