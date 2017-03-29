@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_ANCESTOR_LABEL",
 		"OFFSET_PRIM_BASELINE",
@@ -22,12 +24,9 @@
 		"OFFSET_PRIM_PROGRESS_PAYLOAD",
 		"OFFSET_PRIM_TARGET_DIRECTORY",
 		"OFFSET_PRIM_THEIR_LABEL",
-		"OFFSET_PRIM_VERSION" ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [ ],
 	"name" : "LGitCheckoutOptions",
-	"pools" : [
-		 ],
-	"super" : "LGitStructWithDefaults",
-	"type" : "normal" }
+	"type" : "normal"
+}

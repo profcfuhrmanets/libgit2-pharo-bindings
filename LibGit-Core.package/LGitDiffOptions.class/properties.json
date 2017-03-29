@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_CONTEXT_LINES",
 		"OFFSET_PRIM_FLAGS",
@@ -14,12 +16,9 @@
 		"OFFSET_PRIM_NOTIFY_PAYLOAD",
 		"OFFSET_PRIM_OLD_PREFIX",
 		"OFFSET_PRIM_PATHSPEC",
-		"OFFSET_PRIM_VERSION" ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [ ],
 	"name" : "LGitDiffOptions",
-	"pools" : [
-		 ],
-	"super" : "LGitStructWithDefaults",
-	"type" : "normal" }
+	"type" : "normal"
+}
