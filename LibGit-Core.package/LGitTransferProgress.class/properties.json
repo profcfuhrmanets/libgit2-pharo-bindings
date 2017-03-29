@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_INDEXED_DELTAS",
 		"OFFSET_PRIM_INDEXED_OBJECTS",
@@ -9,12 +11,9 @@
 		"OFFSET_PRIM_RECEIVED_BYTES",
 		"OFFSET_PRIM_RECEIVED_OBJECTS",
 		"OFFSET_PRIM_TOTAL_DELTAS",
-		"OFFSET_PRIM_TOTAL_OBJECTS" ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_TOTAL_OBJECTS"
+	],
+	"instvars" : [ ],
 	"name" : "LGitTransferProgress",
-	"pools" : [
-		 ],
-	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"type" : "normal"
+}

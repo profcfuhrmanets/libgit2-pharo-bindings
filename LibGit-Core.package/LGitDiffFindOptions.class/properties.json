@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_BREAK_REWRITE_THRESHOLD",
 		"OFFSET_PRIM_COPY_THRESHOLD",
@@ -10,12 +12,9 @@
 		"OFFSET_PRIM_RENAME_FROM_REWRITE_THRESHOLD",
 		"OFFSET_PRIM_RENAME_LIMIT",
 		"OFFSET_PRIM_RENAME_THRESHOLD",
-		"OFFSET_PRIM_VERSION" ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [ ],
 	"name" : "LGitDiffFindOptions",
-	"pools" : [
-		 ],
-	"super" : "LGitStructWithDefaults",
-	"type" : "normal" }
+	"type" : "normal"
+}

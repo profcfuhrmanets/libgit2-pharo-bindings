@@ -1,15 +1,14 @@
 {
+	"commentStamp" : "MaxLeske 8/13/2015 14:22",
+	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_NEW_FILE",
-		"OFFSET_PRIM_OLD_FILE" ],
-	"commentStamp" : "MaxLeske 8/13/2015 14:22",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_OLD_FILE"
+	],
+	"instvars" : [ ],
 	"name" : "LGitDiffBinary",
-	"pools" : [
-		 ],
-	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"type" : "normal"
+}
