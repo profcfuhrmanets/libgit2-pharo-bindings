@@ -1,4 +1,4 @@
 libgit-fields
-prim_count
+prim_version
 	"This method was automatically generated"
-	^handle unsignedLongAt: OFFSET_PRIM_COUNT
+	^handle unsignedLongAt: OFFSET_PRIM_VERSION
