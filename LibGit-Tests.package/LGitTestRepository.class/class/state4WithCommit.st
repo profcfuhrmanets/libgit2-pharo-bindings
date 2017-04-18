@@ -19,7 +19,7 @@ state4WithCommit
 		tree: tree;
 		message: 'push test';
 		parents: {};
-		updateReference: repo master;
+		updateReference: 'refs/heads/master';
 		author: author;
 		committer: author;
 		writeCommit;
