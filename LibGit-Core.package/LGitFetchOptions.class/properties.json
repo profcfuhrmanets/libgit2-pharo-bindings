@@ -1,19 +1,20 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
 		"OFFSET_PRIM_CALLBACKS",
+		"OFFSET_PRIM_CUSTOM_HEADERS",
 		"OFFSET_PRIM_DOWNLOAD_TAGS",
+		"OFFSET_PRIM_PROXY_OPTS",
 		"OFFSET_PRIM_PRUNE",
 		"OFFSET_PRIM_UPDATE_FETCHHEAD",
-		"OFFSET_PRIM_VERSION"
-	],
+		"OFFSET_PRIM_VERSION" ],
+	"commentStamp" : "EstebanLorenzano 4/27/2017 17:34",
 	"instvars" : [
-		"callbacks"
-	],
+		"callbacks" ],
 	"name" : "LGitFetchOptions",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitStructWithDefaults",
+	"type" : "normal" }

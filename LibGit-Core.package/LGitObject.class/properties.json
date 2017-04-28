@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "LGitRepositoryObject",
 	"category" : "LibGit-Core-Abstracts",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"id"
-	],
+		"id" ],
 	"name" : "LGitObject",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "LGitRepositoryObject",
+	"type" : "normal" }

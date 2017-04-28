@@ -1,0 +1,3 @@
+/**
+ * Fetch options structure.
+ */

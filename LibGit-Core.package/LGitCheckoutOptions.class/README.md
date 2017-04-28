@@ -1,0 +1,3 @@
+/**
+ * Checkout options structure
+  */
