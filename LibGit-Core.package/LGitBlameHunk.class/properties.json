@@ -12,7 +12,7 @@
 		"OFFSET_PRIM_ORIG_PATH",
 		"OFFSET_PRIM_ORIG_SIGNATURE",
 		"OFFSET_PRIM_ORIG_START_LINE_NUMBER" ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
 	"name" : "LGitBlameHunk",
