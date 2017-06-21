@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitStructWithDefaults",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_DEFAULT_DRIVER",
 		"OFFSET_PRIM_FILE_FAVOR",
@@ -11,12 +13,9 @@
 		"OFFSET_PRIM_RECURSION_LIMIT",
 		"OFFSET_PRIM_RENAME_THRESHOLD",
 		"OFFSET_PRIM_TARGET_LIMIT",
-		"OFFSET_PRIM_VERSION" ],
-	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [ ],
 	"name" : "LGitMergeOptions",
-	"pools" : [
-		 ],
-	"super" : "LGitStructWithDefaults",
-	"type" : "normal" }
+	"type" : "normal"
+}

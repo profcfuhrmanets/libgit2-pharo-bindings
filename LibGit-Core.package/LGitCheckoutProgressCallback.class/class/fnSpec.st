@@ -1,3 +1,3 @@
 accessing
 fnSpec
-	^#(void (FFIExternalString path, FFIInt32 completed_steps, FFIInt32 total_steps, void * payload))
+	^#(void (String path, size_t completed_steps, size_t total_steps, void *payload))

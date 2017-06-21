@@ -1,7 +1,7 @@
 accessing
 fieldsDesc
 	^#(
-		String name;
-		String email;
+		char * name;
+		char * email;
 		LGitTime when;
 	)

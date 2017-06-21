@@ -1,7 +1,9 @@
 {
+	"commentStamp" : "",
+	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_BOUNDARY",
 		"OFFSET_PRIM_FINAL_COMMIT_ID",
@@ -11,12 +13,9 @@
 		"OFFSET_PRIM_ORIG_COMMIT_ID",
 		"OFFSET_PRIM_ORIG_PATH",
 		"OFFSET_PRIM_ORIG_SIGNATURE",
-		"OFFSET_PRIM_ORIG_START_LINE_NUMBER" ],
-	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_ORIG_START_LINE_NUMBER"
+	],
+	"instvars" : [ ],
 	"name" : "LGitBlameHunk",
-	"pools" : [
-		 ],
-	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"type" : "normal"
+}

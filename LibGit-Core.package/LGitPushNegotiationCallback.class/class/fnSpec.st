@@ -1,3 +1,3 @@
 callback spec
 fnSpec
-	^ #(FFIInt32 (LGitPushUpdate **updates, FFIUInt32 len, void * payload))
+	^ #(int (LGitPushUpdate **updates, size_t len, void *payload))

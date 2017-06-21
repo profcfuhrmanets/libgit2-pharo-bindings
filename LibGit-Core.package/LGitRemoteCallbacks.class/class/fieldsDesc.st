@@ -58,7 +58,7 @@ fieldsDesc
 		 * inline with pack building operations, so performance may be
 		 * affected.
 		 "
-		LGitPushTransferCallback push_transfer_progress;
+		LGitPushTransferProgressCallback push_transfer_progress;
 
 		"
 		 * Called for each updated reference on push. If `status` is
@@ -83,5 +83,5 @@ fieldsDesc
 		 * This will be passed to each of the callbacks in this struct
 		 * as the last parameter.
 		 "
-		void * payload;
+		void *payload;
 	)

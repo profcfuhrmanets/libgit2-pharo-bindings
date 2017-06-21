@@ -1,7 +1,6 @@
 libgit-fields
 prim_remote_cb: anObject
 	"This method was automatically generated"
-	remoteCallback := anObject.
 	handle 
 		pointerAt: OFFSET_PRIM_REMOTE_CB
 		put: (anObject 

@@ -1,16 +1,17 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"OFFSET_PRIM_OID_CALCULATIONS",
-		"OFFSET_PRIM_STAT_CALLS",
-		"OFFSET_PRIM_VERSION" ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitDiffSimilarityMetric",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_BUFFER_SIGNATURE",
+		"OFFSET_PRIM_FILE_SIGNATURE",
+		"OFFSET_PRIM_FREE_SIGNATURE",
+		"OFFSET_PRIM_PAYLOAD",
+		"OFFSET_PRIM_SIMILARITY"
+	],
+	"instvars" : [ ],
+	"name" : "LGitDiffSimilarityMetric",
+	"type" : "normal"
+}

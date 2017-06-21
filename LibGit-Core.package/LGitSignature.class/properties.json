@@ -1,16 +1,15 @@
 {
+	"commentStamp" : "<historical>",
+	"super" : "LGitExternalStructure",
 	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [
-		 ],
+	"classinstvars" : [ ],
+	"pools" : [ ],
 	"classvars" : [
 		"OFFSET_PRIM_EMAIL",
 		"OFFSET_PRIM_NAME",
-		"OFFSET_PRIM_WHEN" ],
-	"commentStamp" : "EstebanLorenzano 5/4/2017 09:31",
-	"instvars" : [
-		 ],
+		"OFFSET_PRIM_WHEN"
+	],
+	"instvars" : [ ],
 	"name" : "LGitSignature",
-	"pools" : [
-		 ],
-	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"type" : "normal"
+}

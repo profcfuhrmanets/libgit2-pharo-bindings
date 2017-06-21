@@ -1,3 +1,0 @@
-/**
- * Clone options structure
- */
