@@ -1,7 +1,7 @@
 field definition
 fieldsDesc
 	^ #(
-	uint version;
+	LGitOptionsVersionsEnum version;
 
 	"/**
 	 * The type of proxy to use, by URL, auto-detect.
@@ -11,7 +11,7 @@ fieldsDesc
 	"/**
 	 * The URL of the proxy.
 	 */"
-	char *url;
+	String url;
 
 	"/**
 	 * This will be called if the remote host requires
