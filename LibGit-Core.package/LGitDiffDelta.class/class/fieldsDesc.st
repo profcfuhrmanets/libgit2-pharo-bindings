@@ -14,4 +14,5 @@ fieldsDesc
 	"number of files in this delta"
 	uint16 nfiles
 	LGitDiffFile old_file
-	LGitDiffFile new_file)
+	LGitDiffFile new_file
+	)
