@@ -1,4 +1,4 @@
-#libgit2 bindings for Pharo [![Build Status](https://travis-ci.org/jvdsandt/LibGit.svg?branch=pharo50)](https://travis-ci.org/jvdsandt/LibGit)
+#libgit2 bindings for Pharo [![Build Status](https://travis-ci.org/pharo-vcs/lobgit2-pharo-bindings.svg)](https://travis-ci.org/pharo-vcs/lobgit2-pharo-bindings.svg)
 
 The goal of this project is the development of [libgit2](http://libgit2.github.com) bindings for [Pharo](http://pharo-project.org).
 

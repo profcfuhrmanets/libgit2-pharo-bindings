@@ -1,3 +1,3 @@
 callback spec
 fnSpec
-	^ #(FFIInt32 (FFIInt32 stage, FFIUInt32 current, FFIUint32 total, void * payload))
+	^ #(int (int stage, uint32 current, uint32 total, void *payload))

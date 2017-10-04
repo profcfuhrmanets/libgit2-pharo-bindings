@@ -9,7 +9,7 @@ testExternalCommitArray
 		tree: rootTree;
 		message: 'eat my shorts';
 		parents: {};
-		updateReference: repository master name;
+		updateReference: repository branches first name;
 		author: author;
 		committer: author;
 		writeCommit.

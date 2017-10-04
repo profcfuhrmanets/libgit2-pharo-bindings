@@ -1,4 +1,3 @@
 libgit-calls
 writepack: writepack
-	
-	^ self call: #(FFIVoid #(LGitOdbWritepack * writepack)) options: #()
+	^ self call: #(void #(LGitOdbWritepack *writepack)) options: #()

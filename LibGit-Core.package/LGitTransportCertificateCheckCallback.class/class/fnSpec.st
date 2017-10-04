@@ -1,3 +1,3 @@
 callback spec
 fnSpec
-	^ #(int32 (void *cert, int32 valid, String host, void *payload))
+	^ #(int (void *cert, int valid, String host, void *payload))

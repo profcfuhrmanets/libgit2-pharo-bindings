@@ -5,6 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
+		"Byte20",
 		"OFFSET_PRIM_DATA1",
 		"OFFSET_PRIM_DATA10",
 		"OFFSET_PRIM_DATA11",

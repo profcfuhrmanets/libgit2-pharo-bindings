@@ -1,8 +1,8 @@
-fields description
+field definition
 fieldsDesc
 	^#(
-		LGitTransferProgress * stats;
-		LGitTransferProgressCallback * progress_cb;
-		#FFIVoid * progress_payload;
-		LGitOdbWritepack * writepack;
+		LGitTransferProgress *stats;
+		LGitTransferProgressCallback *progress_cb;
+		void *progress_payload;
+		LGitOdbWritepack *writepack;
 	)

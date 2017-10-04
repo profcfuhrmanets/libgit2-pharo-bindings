@@ -2,7 +2,7 @@ operations
 hunkAt: anInteger
 	| hunk lines |
 	hunk := LGitDiffHunk externalNew.
-	lines := LGitWriteBackValueUInt new.
+	lines := LGitWriteBackValueSizeT new.
 	self withReturnHandlerDo: [
 		self
 			patch_get_hunk: hunk
