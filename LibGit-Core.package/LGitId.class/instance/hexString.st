@@ -1,12 +1,10 @@
 printing
 hexString
 	| string |
-	self isExternal 
-		ifFalse: [ ^handle hex ].
+	self isExternal
+		ifFalse: [ ^ handle hex ].
 	string := String new: 40.
-	string pin.
-	self
-		oid_fmt: string
-		id: self.	
-	string unpin.
+	string pinInMemory.
+	self oid_fmt: string id: self.
+	string unpinInMemory.
 	^ string
