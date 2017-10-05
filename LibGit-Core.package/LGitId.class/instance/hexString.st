@@ -4,7 +4,7 @@ hexString
 	self isExternal
 		ifFalse: [ ^ handle hex ].
 	string := String new: 40.
-	string pinInMemory.
+	string pin.
 	self oid_fmt: string id: self.
-	string unpinInMemory.
+	string unpin.
 	^ string
