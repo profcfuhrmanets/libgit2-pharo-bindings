@@ -4,6 +4,7 @@ SmalltalkCISpec {
       #baseline : 'LibGit',
       #directory : '',
       #load : [ 'LibGit-Tests' ],
+	  #useLatestMetacello : true,
       #platforms : [ #pharo ]
     }
   ]
