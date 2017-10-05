@@ -1,6 +1,7 @@
 tests
 testCreateCommit
 	| blob subTree rootTree author head headRef |
+
 	blob := self createBlob.
 	subTree := self createSubTreeWith: blob.
 	rootTree := self createRootTreeWith: subTree.
