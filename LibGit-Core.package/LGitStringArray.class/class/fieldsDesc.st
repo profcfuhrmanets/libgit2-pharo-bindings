@@ -2,5 +2,5 @@ accessing
 fieldsDesc
 	^#(
 		LGitExternalStringArray * strings;
-		FFIInt32 count;
+		size_t count;
 	)

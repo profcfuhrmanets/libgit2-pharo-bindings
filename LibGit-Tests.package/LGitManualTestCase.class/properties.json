@@ -1,14 +1,13 @@
 {
-	"category" : "LibGit-Tests-Manual",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"enabled" ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitManualTestCase",
-	"pools" : [
-		 ],
 	"super" : "LGitTestCase",
-	"type" : "normal" }
+	"category" : "LibGit-Tests-Manual",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"enabled"
+	],
+	"instvars" : [ ],
+	"name" : "LGitManualTestCase",
+	"type" : "normal"
+}

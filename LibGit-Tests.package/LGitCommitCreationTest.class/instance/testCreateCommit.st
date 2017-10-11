@@ -1,6 +1,7 @@
 tests
 testCreateCommit
 	| blob subTree rootTree author head headRef |
+
 	blob := self createBlob.
 	subTree := self createSubTreeWith: blob.
 	rootTree := self createRootTreeWith: subTree.
@@ -9,7 +10,7 @@ testCreateCommit
 		tree: rootTree;
 		message: 'eat my shorts';
 		parents: {};
-		updateReference: repository master name;
+		updateReference: repository branches first name;
 		author: author;
 		committer: author;
 		writeCommit.

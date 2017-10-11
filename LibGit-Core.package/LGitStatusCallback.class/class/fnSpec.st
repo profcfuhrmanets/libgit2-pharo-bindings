@@ -1,3 +1,3 @@
 accessing
 fnSpec
-	^#(FFIInt32 (String arg1, FFIUInt32 arg2, void * arg3))
+	^#(int (String path, uint status_flags, void *payload))

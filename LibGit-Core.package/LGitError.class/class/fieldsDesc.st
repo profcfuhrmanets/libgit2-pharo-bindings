@@ -1,6 +1,6 @@
 fields description
 fieldsDesc
 	^#(
-	#FFIExternalString message;
+	String message;
 	LGitErrorTypeEnum klass;
 	)

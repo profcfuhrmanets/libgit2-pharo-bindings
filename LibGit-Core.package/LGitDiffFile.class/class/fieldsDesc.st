@@ -2,8 +2,9 @@ fields description
 fieldsDesc
 	^#(
 	LGitId id
-	#FFIExternalString path
-	#FFIInt64 size
-	#FFIUInt32 flags
-	#FFIUInt16 mode
+	String path
+	int64 size
+	uint32 flags
+	uint16 mode
+	uint16 id_abbrev
 	)
