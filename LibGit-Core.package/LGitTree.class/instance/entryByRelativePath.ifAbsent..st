@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 entryByRelativePath: aString ifAbsent: aBlock
     | entry |
     entry := (LGitTreeEntry of: self repository) autoRelease.

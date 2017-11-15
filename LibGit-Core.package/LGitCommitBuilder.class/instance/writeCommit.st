@@ -4,8 +4,8 @@ writeCommit
 	self withReturnHandlerDo: [ 
 		self assert: (self parents allSatisfy: #isReady).
 		parentsPointer := self parents
-			ifEmpty: [ ExternalAddress null ]
-			ifNotEmpty: [ (LGitExternalCommitArray fromCollection: self parents) getHandle ].
+			ifNotEmpty: [ (LGitExternalCommitArray fromCollection: self parents) getHandle ]
+			ifEmpty: [ ExternalAddress null ].
 	self withReturnHandlerDo: [ 
 		self
 			commit_create: self commitId
