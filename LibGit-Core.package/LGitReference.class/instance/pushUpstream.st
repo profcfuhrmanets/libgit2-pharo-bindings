@@ -1,6 +1,6 @@
 accessing
 pushUpstream
-	| pushRemote | 
+	  
 	^ self repository config 
 		getString: 'remote.pushDefault'
 		ifPresent: [ :pushRemoteName |
