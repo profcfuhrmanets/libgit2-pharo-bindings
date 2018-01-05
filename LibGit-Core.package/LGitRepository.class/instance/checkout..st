@@ -3,8 +3,8 @@ checkout: aString
 	<todo: 'use proper exceptions'>
 	self assert: aString notNil.
 	self assert: aString trimBoth notEmpty.
-
 	[ 
+	
 		| branch |
 		branch := self 
 			lookupLocalBranch: aString 
