@@ -40,4 +40,22 @@ testFromString
 	self assert: spec source equals: ''.
 	self assert: spec destination equals: 'refs/heads/bar'.
 	self assert: spec asString equals: ':refs/heads/bar'.
-	self deny: spec isForced
+	self deny: spec isForced.
+
+	spec := LGitRefSpec fromString: 'refs/heads/foo-bar:refs/heads/bar'.
+	self assert: spec source equals: 'refs/heads/foo-bar'.
+	self assert: spec destination equals: 'refs/heads/bar'.
+	self assert: spec asString equals: 'refs/heads/foo-bar:refs/heads/bar'.
+	self deny: spec isForced.
+
+	spec := LGitRefSpec fromString: 'foo-bar:refs/heads/bar'.
+	self assert: spec source equals: 'foo-bar'.
+	self assert: spec destination equals: 'refs/heads/bar'.
+	self assert: spec asString equals: 'foo-bar:refs/heads/bar'.
+	self deny: spec isForced.
+	
+	spec := LGitRefSpec fromString: '+refs/heads/foo-bar:refs/heads/bar'.
+	self assert: spec source equals: 'refs/heads/foo-bar'.
+	self assert: spec destination equals: 'refs/heads/bar'.
+	self assert: spec asString equals: '+refs/heads/foo-bar:refs/heads/bar'.
+	self assert: spec isForced.
