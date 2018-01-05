@@ -2,7 +2,8 @@ intialization
 initializeFromString: aString
 	<todo: 'use exceptions instead of assertions'>
 	| stream |
-	self assert: ('((\+[\w/]+)|([\w/]*))\:[\w/]+' asRegex matches: aString).
+	
+	self assert: ('(\+?[\w\-/])*\:[\w\-/]+' asRegex matches: aString).
 	
 	stream := aString readStream.
 	[
