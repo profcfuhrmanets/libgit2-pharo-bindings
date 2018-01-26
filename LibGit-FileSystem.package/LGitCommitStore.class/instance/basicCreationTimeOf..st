@@ -1,4 +1,4 @@
 abstract
 basicCreationTimeOf: aLGitTreeEntry 
 	
-	^ commit datetime
+	^ commit time asDateAndTime
