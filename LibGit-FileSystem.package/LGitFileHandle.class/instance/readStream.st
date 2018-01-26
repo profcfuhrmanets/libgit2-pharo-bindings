@@ -1,4 +1,4 @@
 public
 readStream
 
-	^ entry object contents readStream
+	^ ZnBufferedReadStream on: (LGitReadStream on: entry object).

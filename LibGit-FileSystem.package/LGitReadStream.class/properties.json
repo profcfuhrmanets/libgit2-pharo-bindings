@@ -1,13 +1,15 @@
 {
-	"commentStamp" : "GuillermoPolito 1/26/2018 23:27",
-	"super" : "FileSystemStore",
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "LibGit-FileSystem",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"commit"
+		"rawBuffer",
+		"gitBlob",
+		"position"
 	],
-	"name" : "LGitCommitStore",
+	"name" : "LGitReadStream",
 	"type" : "normal"
 }

@@ -1,4 +1,4 @@
-as yet unclassified
+printing
 forReferencePrintOn: aStream
 	
 	aStream nextPutAll: 'git://'

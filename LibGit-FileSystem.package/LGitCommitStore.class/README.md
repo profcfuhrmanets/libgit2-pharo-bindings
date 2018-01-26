@@ -1,0 +1,1 @@
+I am a read-only store for FileSystem that reads inside a commit.
