@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "GuillermoPolito 1/27/2018 00:01",
+	"super" : "FileSystemStore",
+	"category" : "LibGit-FileSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"commit"
+	],
+	"name" : "LGitCommitStore",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "GuillermoPolito 1/26/2018 23:28",
+	"super" : "FileSystemHandle",
+	"category" : "LibGit-FileSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"entry"
+	],
+	"name" : "LGitFileHandle",
+	"type" : "normal"
+}
