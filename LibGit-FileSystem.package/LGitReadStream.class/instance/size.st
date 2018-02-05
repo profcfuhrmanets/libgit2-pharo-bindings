@@ -1,4 +1,0 @@
-testing
-size
-
-	^ gitBlob rawSize

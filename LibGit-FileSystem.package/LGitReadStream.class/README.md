@@ -1,1 +1,0 @@
-I am a read stream on a raw git blob. A git blob has a pointer to its contents and its size.
