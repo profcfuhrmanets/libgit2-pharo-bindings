@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "LibGit-FileSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rawBuffer",
+		"gitBlob",
+		"position"
+	],
+	"name" : "LGitReadStream",
+	"type" : "normal"
+}
