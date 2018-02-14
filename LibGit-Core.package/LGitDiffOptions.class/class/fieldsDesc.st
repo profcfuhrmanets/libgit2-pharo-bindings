@@ -9,6 +9,7 @@ fieldsDesc
 		LGitSubmoduleIgnoreTypeEnum ignore_submodules "submodule ignore rule"
 		LGitStringArray       pathspec     "defaults to include all paths"
 		LGitDiffNotifyCallback notify_cb
+		LGitDiffProgressCallback progress_cb
 		void *notify_payload
 
 		"options controlling how to diff text is generated"
