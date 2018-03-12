@@ -1,0 +1,3 @@
+public
+binaryReadStream
+	^ self readStream
