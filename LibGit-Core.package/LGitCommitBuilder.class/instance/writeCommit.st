@@ -15,7 +15,7 @@ writeCommit
 			author: self author
 			committer: self committer
 			message_encoding: self messageEncoding
-			message: self message withUnixLineEndings
+			message: self message
 			tree: self tree
 			parent_count: self parents size
 			parents: parentsPointer] ]
