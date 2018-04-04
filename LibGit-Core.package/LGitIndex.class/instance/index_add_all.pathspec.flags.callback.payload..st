@@ -7,6 +7,6 @@ index_add_all: index pathspec: pathspec flags: flags callback: callback payload:
 				self, 
 				LGitStringArray *pathspec, 
 				uint flags, 
-				LGitIndexMatchedPathCallback callback, 
+				void* callback, 
 				void *payload))
 		options: #(optMayGC optCoerceNilToNull)
