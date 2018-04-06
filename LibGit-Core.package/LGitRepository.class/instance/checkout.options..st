@@ -16,7 +16,7 @@ checkout: aString options: options
 		this will handle stuff like 'master~1'"
 		| commitish | 
 		commitish := self revparse: aString.
-		self setHead: commitish.
+		self setHeadDetached: commitish.
 		self resetHardTo: commitish object checkoutOptions: options.
 	].
 
