@@ -7,5 +7,5 @@ addAll
 			index_add_all: self
 			pathspec: pathspec
 			flags: 0
-			callback: (LGitIndexMatchedPathCallback on: [ :a :b :c | 0 ])
+			callback: ExternalAddress null
 			payload: ExternalAddress null ]
