@@ -1,4 +1,4 @@
 accessing
 email: aString 
 	
-	self setString: 'user.mail' to: aString
+	self setString: 'user.email' to: aString
