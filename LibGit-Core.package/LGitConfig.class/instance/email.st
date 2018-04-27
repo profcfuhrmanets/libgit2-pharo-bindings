@@ -1,4 +1,4 @@
 accessing
 email
 	
-	^ self getString: 'user.mail' ifAbsent: [ NotFound signalFor: 'user.mail' ]
+	^ self getString: 'user.email' ifAbsent: [ NotFound signalFor: 'user.email' ]
