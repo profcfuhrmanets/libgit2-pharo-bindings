@@ -1,3 +1,3 @@
 instance creation
 newFromReference: aReference
-	^self of: aReference repository from: aReference targetId
+	^self of: aReference repository fromId: aReference targetId
