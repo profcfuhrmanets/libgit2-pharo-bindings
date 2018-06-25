@@ -21,7 +21,9 @@
 	],
 	"instvars" : [
 		"credentialsCallback",
-		"certificateCheckCallback"
+		"certificateCheckCallback",
+		"transferProgressCallback",
+		"pushTransferProgress"
 	],
 	"name" : "LGitRemoteCallbacks",
 	"type" : "normal"
