@@ -1,0 +1,4 @@
+operations
+forgetInitializationState
+
+	initialized := nil
