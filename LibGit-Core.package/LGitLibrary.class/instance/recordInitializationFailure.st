@@ -1,0 +1,4 @@
+operations
+recordInitializationFailure
+
+	initialized := false
