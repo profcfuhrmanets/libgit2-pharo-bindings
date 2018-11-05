@@ -9,5 +9,6 @@ SystemOrganization addCategory: #'LibGit-Core-FFI-Enums'!
 SystemOrganization addCategory: #'LibGit-Core-FFI-Handling'!
 SystemOrganization addCategory: #'LibGit-Core-FFI-Structs'!
 SystemOrganization addCategory: #'LibGit-Core-HelperObjects'!
+SystemOrganization addCategory: #'LibGit-Core-Manifest'!
 SystemOrganization addCategory: #'LibGit-Core-NonCoreObjects'!
 SystemOrganization addCategory: #'LibGit-Core-Traits'!
